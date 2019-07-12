@@ -14,7 +14,7 @@ def convert_string_id_to_integer(string_id)
 end
 
 places_csv.each do |place_row|
-  Place.create({
+  Place.create!({
     id: convert_string_id_to_integer(place_row[:snoplace]),
     longitude: place_row[:nlongitude],
     latitude: place_row[:nlatitude],
@@ -34,7 +34,7 @@ places_csv.each do |place_row|
 end
 
 reglementations_csv.each do |reglementation_row|
-  Reglementation.create({
+  Reglementation.create!({
     id: convert_string_id_to_integer(reglementation_row[:name]),
     type_reglementation: reglementation_row[:type],
     date_debut: reglementation_row[:datedebut],
@@ -44,14 +44,14 @@ reglementations_csv.each do |reglementation_row|
 end
 
 emplacement_reglementations_csv.each do |emplacement_reglementation_row|
-  EmplacementReglementation.create({
+  EmplacementReglementation.create!({
     place_id: convert_string_id_to_integer(emplacement_reglementation_row[:snoemplacement]),
     reglementation_id: convert_string_id_to_integer(emplacement_reglementation_row[:scodeautocollant])
   })
 end
 
 periodes_csv.each do |periode_row|
-  Periode.create({
+  Periode.create!({
     id: periode_row[:nid],
     heure_debut: periode_row[:dtheuredebut],
     heire_fin: periode_row[:dtheurefin],
@@ -66,7 +66,7 @@ periodes_csv.each do |periode_row|
 end
 
 reglementation_periodes_csv.each do |reglementation_periode_row|
-  ReglementationPeriode.create({
+  ReglementationPeriode.create!({
     reglementation_id: convert_string_id_to_integer(reglementation_periode_row[:scode]),
     periode_id: reglementation_periode_row[:noperiode],
     description: reglementation_periode_row[:sDescription]
