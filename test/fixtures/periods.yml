@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  heure_debut: 2019-07-11 15:00:16
+  heire_fin: 2019-07-11 15:00:16
+  applique_lundi: false
+  applique_mardi: false
+  applique_mercredi: false
+  applique_jeudi: false
+  applique_vendredi: false
+  applique_samedi: false
+  applique_dimanche: false
+
+two:
+  heure_debut: 2019-07-11 15:00:16
+  heire_fin: 2019-07-11 15:00:16
+  applique_lundi: false
+  applique_mardi: false
+  applique_mercredi: false
+  applique_jeudi: false
+  applique_vendredi: false
+  applique_samedi: false
+  applique_dimanche: false

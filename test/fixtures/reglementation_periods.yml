@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  reglementation: one
+  period: one
+  description: MyString
+
+two:
+  reglementation: two
+  period: two
+  description: MyString

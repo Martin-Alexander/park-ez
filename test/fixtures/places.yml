@@ -1,0 +1,33 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  longitude: 1.5
+  latitude: 1.5
+  statut: MyString
+  genre: MyString
+  type: 
+  autre_tete: MyString
+  nom_rue: MyString
+  sup_velo: 1
+  type_exploitation: MyString
+  postion_centre_longitude: 1.5
+  postion_centre_latitude: 1.5
+  tarif_horaire: 1
+  localisation: MyString
+  tarif_max: 1
+
+two:
+  longitude: 1.5
+  latitude: 1.5
+  statut: MyString
+  genre: MyString
+  type: 
+  autre_tete: MyString
+  nom_rue: MyString
+  sup_velo: 1
+  type_exploitation: MyString
+  postion_centre_longitude: 1.5
+  postion_centre_latitude: 1.5
+  tarif_horaire: 1
+  localisation: MyString
+  tarif_max: 1

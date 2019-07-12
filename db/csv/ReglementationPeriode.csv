@@ -1,0 +1,763 @@
+sCode,noPeriode,sDescription
+CC-AA,28,LUN � VEN 9 h - 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CC-AA,108,LUN � VEN 9 h - 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CC-AA,125,LUN � VEN 9 h - 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CC-AC,34,LUN � SAM 9 h - 18 h DIM 13 h - 18 h
+CC-AC,125,LUN � SAM 9 h - 18 h DIM 13 h - 18 h
+CC-AK,28,LUN � VEN 9 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CC-AK,111,LUN � VEN 9 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CC-AK,125,LUN � VEN 9 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CC-AW,25,LUN ET MAR ET MER ET SAM 9 h - 18 h JEU ET VEN 9 h - 21 h DIM 13 h - 18 h
+CC-AW,26,LUN ET MAR ET MER ET SAM 9 h - 18 h JEU ET VEN 9 h - 21 h DIM 13 h - 18 h
+CC-AW,28,LUN ET MAR ET MER ET SAM 9 h - 18 h JEU ET VEN 9 h - 21 h DIM 13 h - 18 h
+CC-AW,125,LUN ET MAR ET MER ET SAM 9 h - 18 h JEU ET VEN 9 h - 21 h DIM 13 h - 18 h
+CC-BE,64,LUN � SAM 9 h - 17 h DIM 13 h - 17 h
+CC-BE,127,LUN � SAM 9 h - 17 h DIM 13 h - 17 h
+CC-PB,28,LUN � VEN 9 h - 15 h 30 17 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CC-PB,31,LUN � VEN 9 h - 15 h 30 17 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CC-PB,113,LUN � VEN 9 h - 15 h 30 17 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CC-PB,125,LUN � VEN 9 h - 15 h 30 17 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CC-QT,28,LUN � VEN 9 h - 15 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CC-QT,31,LUN � VEN 9 h - 15 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CC-QT,110,LUN � VEN 9 h - 15 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CC-QT,125,LUN � VEN 9 h - 15 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CC-RC,28,LUN � VEN 9 h - 15 h 30 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CC-RC,31,LUN � VEN 9 h - 15 h 30 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CC-RC,109,LUN � VEN 9 h - 15 h 30 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CC-RC,125,LUN � VEN 9 h - 15 h 30 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CC-RN,28,LUN � VEN 9 h - 15 h  18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CC-RN,30,LUN � VEN 9 h - 15 h  18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CC-RN,110,LUN � VEN 9 h - 15 h  18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CC-RN,125,LUN � VEN 9 h - 15 h  18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CC-SK,28,LUN � VEN 9 h  - 14 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CC-SK,110,LUN � VEN 9 h  - 14 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CC-SK,125,LUN � VEN 9 h  - 14 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CC-SK,188,LUN � VEN 9 h  - 14 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CC-SX,108,LUN � VEN 9 h - 21 h  SAM et DIM 9 h - 18 h
+CC-SX,332,LUN � VEN 9 h - 21 h  SAM et DIM 9 h - 18 h
+CH-AA,28,LUN � VEN 9 h - 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-AA,108,LUN � VEN 9 h - 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-AA,125,LUN � VEN 9 h - 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-AB,28,LUN � VEN 9 h 30 - 16 h 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-AB,33,LUN � VEN 9 h 30 - 16 h 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-AB,109,LUN � VEN 9 h 30 - 16 h 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-AB,125,LUN � VEN 9 h 30 - 16 h 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-AC,34,LUN � SAM 9 h - 18 h DIM 13 h - 18 h
+CH-AC,125,LUN � SAM 9 h - 18 h DIM 13 h - 18 h
+CH-AD,28,LUN � VEN 9 h - 16 h 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-AD,32,LUN � VEN 9 h - 16 h 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-AD,110,LUN � VEN 9 h - 16 h 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-AD,125,LUN � VEN 9 h - 16 h 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-AI,28,LUN � VEN 9 h - 16 h 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-AI,32,LUN � VEN 9 h - 16 h 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-AI,109,LUN � VEN 9 h - 16 h 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-AI,125,LUN � VEN 9 h - 16 h 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-AJ,27,LUN � VEN 9 h 30 - 15 h 30 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-AJ,28,LUN � VEN 9 h 30 - 15 h 30 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-AJ,109,LUN � VEN 9 h 30 - 15 h 30 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-AJ,125,LUN � VEN 9 h 30 - 15 h 30 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-AK,28,LUN � VEN 9 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-AK,111,LUN � VEN 9 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-AK,125,LUN � VEN 9 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-AV,28,LUN � VEN 11 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-AV,112,LUN � VEN 11 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-AV,125,LUN � VEN 11 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-AW,25,LUN ET MAR ET MER ET SAM 9 h - 18 h JEU ET VEN 9 h - 21 h DIM 13 h - 18 h
+CH-AW,26,LUN ET MAR ET MER ET SAM 9 h - 18 h JEU ET VEN 9 h - 21 h DIM 13 h - 18 h
+CH-AW,28,LUN ET MAR ET MER ET SAM 9 h - 18 h JEU ET VEN 9 h - 21 h DIM 13 h - 18 h
+CH-AW,125,LUN ET MAR ET MER ET SAM 9 h - 18 h JEU ET VEN 9 h - 21 h DIM 13 h - 18 h
+CH-AX,28,LUN ET MAR ET MER 12 h - 18 h JEU ET VEN 12 h - 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-AX,71,LUN ET MAR ET MER 12 h - 18 h JEU ET VEN 12 h - 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-AX,72,LUN ET MAR ET MER 12 h - 18 h JEU ET VEN 12 h - 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-AX,125,LUN ET MAR ET MER 12 h - 18 h JEU ET VEN 12 h - 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-AY,28,LUN � VEN 17H30 - 21H SAMEDI 9H - 18H DIMANCHE 13H - 18H
+CH-AY,113,LUN � VEN 17H30 - 21H SAMEDI 9H - 18H DIMANCHE 13H - 18H
+CH-AY,125,LUN � VEN 17H30 - 21H SAMEDI 9H - 18H DIMANCHE 13H - 18H
+CH-AZ,28,LUN - VEN 10h - 15h30 18h - 21h SAM 9h - 18h DIM 13h - 18h
+CH-AZ,109,LUN - VEN 10h - 15h30 18h - 21h SAM 9h - 18h DIM 13h - 18h
+CH-AZ,125,LUN - VEN 10h - 15h30 18h - 21h SAM 9h - 18h DIM 13h - 18h
+CH-AZ,294,LUN - VEN 10h - 15h30 18h - 21h SAM 9h - 18h DIM 13h - 18h
+CH-BE,64,LUN � SAM 9 h - 17 h DIM 13 h - 17 h
+CH-BE,127,LUN � SAM 9 h - 17 h DIM 13 h - 17 h
+CH-BG,28,LUN ET MAR ET MER 9 h - 16 h JEU ET VEN 9h - 16h et 18h - 21h SAM 9h - 18h DIM 13 h - 18 h
+CH-BG,32,LUN ET MAR ET MER 9 h - 16 h JEU ET VEN 9h - 16h et 18h - 21h SAM 9h - 18h DIM 13 h - 18 h
+CH-BG,35,LUN ET MAR ET MER 9 h - 16 h JEU ET VEN 9h - 16h et 18h - 21h SAM 9h - 18h DIM 13 h - 18 h
+CH-BG,125,LUN ET MAR ET MER 9 h - 16 h JEU ET VEN 9h - 16h et 18h - 21h SAM 9h - 18h DIM 13 h - 18 h
+CH-BH,1371,LUN � VEN 6 h - 17 h
+CH-DD,28,LUN � VEN 9 h 30 - 18 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-DD,82,LUN � VEN 9 h 30 - 18 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-DD,125,LUN � VEN 9 h 30 - 18 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-DG,27,LUN � VEN 9 h 30 - 15 h 30 SAM 9 h - 18 h DIM 13 h - 18 h
+CH-DG,28,LUN � VEN 9 h 30 - 15 h 30 SAM 9 h - 18 h DIM 13 h - 18 h
+CH-DG,125,LUN � VEN 9 h 30 - 15 h 30 SAM 9 h - 18 h DIM 13 h - 18 h
+CH-DH,28,LUN � VEN 9 h 30 - 15 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-DH,67,LUN � VEN 9 h 30 - 15 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-DH,125,LUN � VEN 9 h 30 - 15 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-DI,28,LUN � VEN 10 h - 15 h 18 h  - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-DI,109,LUN � VEN 10 h - 15 h 18 h  - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-DI,125,LUN � VEN 10 h - 15 h 18 h  - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-DI,1366,LUN � VEN 10 h - 15 h 18 h  - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-PB,28,LUN � VEN 9 h - 15 h 30 17 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-PB,31,LUN � VEN 9 h - 15 h 30 17 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-PB,113,LUN � VEN 9 h - 15 h 30 17 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-PB,125,LUN � VEN 9 h - 15 h 30 17 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-PO,286,LUN � VEN 13 h - 21 h SAM ET DIM 13 h - 18 h
+CH-PO,287,LUN � VEN 13 h - 21 h SAM ET DIM 13 h - 18 h
+CH-PU,143,MAX 4 h - LUN � JEU 17 h - 21h VEN 12 h 30 - 21 h SAM  ET DIM 9 h - 21 h
+CH-PU,144,MAX 4 h - LUN � JEU 17 h - 21h VEN 12 h 30 - 21 h SAM  ET DIM 9 h - 21 h
+CH-PU,1360,MAX 4 h - LUN � JEU 17 h - 21h VEN 12 h 30 - 21 h SAM  ET DIM 9 h - 21 h
+CH-PX,28,LUN � VEN 12 h - 18 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-PX,125,LUN � VEN 12 h - 18 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-PX,1391,LUN � VEN 12 h - 18 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-PY,28,LUN � VEN 9 h - 19 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-PY,125,LUN � VEN 9 h - 19 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-PY,1413,LUN � VEN 9 h - 19 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-QD,28,LUN � VEN 9 h - 13 h 17 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-QD,69,LUN � VEN 9 h - 13 h 17 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-QD,114,LUN � VEN 9 h - 13 h 17 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-QD,125,LUN � VEN 9 h - 13 h 17 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-QE,28,LUN � VEN 12 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-QE,115,LUN � VEN 12 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-QE,125,LUN � VEN 12 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-QF,27,LUN � VEN 9 h 30 - 15 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-QF,28,LUN � VEN 9 h 30 - 15 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-QF,110,LUN � VEN 9 h 30 - 15 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-QF,125,LUN � VEN 9 h 30 - 15 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-QK,27,LUN � VEN 9 h 30 - 15 h 30 17 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-QK,28,LUN � VEN 9 h 30 - 15 h 30 17 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-QK,113,LUN � VEN 9 h 30 - 15 h 30 17 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-QK,125,LUN � VEN 9 h 30 - 15 h 30 17 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-QR,28,LUN � VEN 9 h 30 - 15 h 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-QR,67,LUN � VEN 9 h 30 - 15 h 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-QR,110,LUN � VEN 9 h 30 - 15 h 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-QR,125,LUN � VEN 9 h 30 - 15 h 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-QS,28,LUN � VEN 9 h - 15 h 30 SAM 9 h - 18 h DIM 13 h - 18 h
+CH-QS,31,LUN � VEN 9 h - 15 h 30 SAM 9 h - 18 h DIM 13 h - 18 h
+CH-QS,125,LUN � VEN 9 h - 15 h 30 SAM 9 h - 18 h DIM 13 h - 18 h
+CH-QT,28,LUN � VEN 9 h - 15 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-QT,31,LUN � VEN 9 h - 15 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-QT,110,LUN � VEN 9 h - 15 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-QT,125,LUN � VEN 9 h - 15 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-QW,28,LUN � VEN 9 h 30 - 16 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-QW,33,LUN � VEN 9 h 30 - 16 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-QW,125,LUN � VEN 9 h 30 - 16 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-QX,28,LUN � VEN 17 h - 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-QX,114,LUN � VEN 17 h - 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-QX,125,LUN � VEN 17 h - 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-QY,28,LUN � VEN 15 h - 18 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-QY,125,LUN � VEN 15 h - 18 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-QY,175,LUN � VEN 15 h - 18 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-QZ,28,LUN � VEN 10h30 - 14 h et 16h - 21h SAM 9h - 18h DIM 13h - 21h
+CH-QZ,104,LUN � VEN 10h30 - 14 h et 16h - 21h SAM 9h - 18h DIM 13h - 21h
+CH-QZ,125,LUN � VEN 10h30 - 14 h et 16h - 21h SAM 9h - 18h DIM 13h - 21h
+CH-QZ,1359,LUN � VEN 10h30 - 14 h et 16h - 21h SAM 9h - 18h DIM 13h - 21h
+CH-RC,28,LUN � VEN 9 h - 15 h 30 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-RC,31,LUN � VEN 9 h - 15 h 30 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-RC,109,LUN � VEN 9 h - 15 h 30 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-RC,125,LUN � VEN 9 h - 15 h 30 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-RF,28,LUN � VEN 9 h 30 - 16 h 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-RF,33,LUN � VEN 9 h 30 - 16 h 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-RF,110,LUN � VEN 9 h 30 - 16 h 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-RF,125,LUN � VEN 9 h 30 - 16 h 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-RG,28,LUN � VEN 9 h - 16 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-RG,32,LUN � VEN 9 h - 16 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-RG,125,LUN � VEN 9 h - 16 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-RN,28,LUN � VEN 9 h - 15 h  18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-RN,30,LUN � VEN 9 h - 15 h  18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-RN,110,LUN � VEN 9 h - 15 h  18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-RN,125,LUN � VEN 9 h - 15 h  18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-RP,28,LUN � VEN 9 h - 13 h 16 h  - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-RP,69,LUN � VEN 9 h - 13 h 16 h  - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-RP,104,LUN � VEN 9 h - 13 h 16 h  - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-RP,125,LUN � VEN 9 h - 13 h 16 h  - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-RT,142,9 h - 21 h
+CH-RZ,28,LUN � VEN 16 h - 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-RZ,104,LUN � VEN 16 h - 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-RZ,125,LUN � VEN 16 h - 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-SC,28,LUN � VEN 9 h - 15 h 30 19 h - 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-SC,31,LUN � VEN 9 h - 15 h 30 19 h - 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-SC,121,LUN � VEN 9 h - 15 h 30 19 h - 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-SC,125,LUN � VEN 9 h - 15 h 30 19 h - 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-SE,28,LUN � VEN 18 h - 21 h  SAM 9 h - 18 h DIM 13 h - 18 h
+CH-SE,109,LUN � VEN 18 h - 21 h  SAM 9 h - 18 h DIM 13 h - 18 h
+CH-SE,125,LUN � VEN 18 h - 21 h  SAM 9 h - 18 h DIM 13 h - 18 h
+CH-SF,109,LUN � VEN 18 h - 21 h  DIM 13 h - 18 h
+CH-SF,125,LUN � VEN 18 h - 21 h  DIM 13 h - 18 h
+CH-SG,104,LUN � VEN 16 h - 21 h  SAM 16 h - 18 h DIM 13 h - 18 h
+CH-SG,125,LUN � VEN 16 h - 21 h  SAM 16 h - 18 h DIM 13 h - 18 h
+CH-SG,185,LUN � VEN 16 h - 21 h  SAM 16 h - 18 h DIM 13 h - 18 h
+CH-SI,28,LUN � VEN 9 h 30 - 14 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-SI,110,LUN � VEN 9 h 30 - 14 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-SI,120,LUN � VEN 9 h 30 - 14 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-SI,125,LUN � VEN 9 h 30 - 14 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-SK,28,LUN � VEN 9 h  - 14 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-SK,110,LUN � VEN 9 h  - 14 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-SK,125,LUN � VEN 9 h  - 14 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-SK,188,LUN � VEN 9 h  - 14 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-SM,28,LUN � VEN 9 h 30  - 14 h 30 SAM 9 h 18 h DIM 13 h - 18 h
+CH-SM,120,LUN � VEN 9 h 30  - 14 h 30 SAM 9 h 18 h DIM 13 h - 18 h
+CH-SM,125,LUN � VEN 9 h 30  - 14 h 30 SAM 9 h 18 h DIM 13 h - 18 h
+CH-SR,114,LUN � VEN 17 h - 21 h  ET DIM 13 h - 18 h
+CH-SR,125,LUN � VEN 17 h - 21 h  ET DIM 13 h - 18 h
+CH-ST,28,LUN � VEN 15 h - 21 h  SAM 9 h - 18 h DIM 13 h - 18 h
+CH-ST,125,LUN � VEN 15 h - 21 h  SAM 9 h - 18 h DIM 13 h - 18 h
+CH-ST,236,LUN � VEN 15 h - 21 h  SAM 9 h - 18 h DIM 13 h - 18 h
+CH-SU,28,LUN � VEN 18 h 30 - 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-SU,110,LUN � VEN 18 h 30 - 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-SU,125,LUN � VEN 18 h 30 - 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-SV,28,LUN � VEN 15 h 30 - 21 h SAM 9 h - 18 h DIM 13 h - 18
+CH-SV,125,LUN � VEN 15 h 30 - 21 h SAM 9 h - 18 h DIM 13 h - 18
+CH-SV,246,LUN � VEN 15 h 30 - 21 h SAM 9 h - 18 h DIM 13 h - 18
+CH-SW,28,LUN � VEN 10 h - 21 h SAM 9 h 18 h DIM 13 h 18 h
+CH-SW,125,LUN � VEN 10 h - 21 h SAM 9 h 18 h DIM 13 h 18 h
+CH-SW,300,LUN � VEN 10 h - 21 h SAM 9 h 18 h DIM 13 h 18 h
+CH-SX,108,LUN � VEN 9 h - 21 h SAM et DIM 9 h - 18 h
+CH-SX,332,LUN � VEN 9 h - 21 h SAM et DIM 9 h - 18 h
+CH-SY,108,LUN � VEN 11 h - 21 h SAM et DIM 9 h - 18 h
+CH-SY,332,LUN � VEN 11 h - 21 h SAM et DIM 9 h - 18 h
+CH-SZ,236,LUN � VEN 15 h - 21 h SAM et DIM 9 h - 18 h
+CH-SZ,332,LUN � VEN 15 h - 21 h SAM et DIM 9 h - 18 h
+CH-TA,28,LUN � VEN 14 h - 21 h SAM 9 h - 18h DIM 13 h - 18 h
+CH-TA,125,LUN � VEN 14 h - 21 h SAM 9 h - 18h DIM 13 h - 18 h
+CH-TA,297,LUN � VEN 14 h - 21 h SAM 9 h - 18h DIM 13 h - 18 h
+CH-TC,108,LUN � VEN 9 h  - 21 h
+CH-TD,28,LUN � VEN 19 h - 21 h  SAM 9 h - 18 h DIM 13 h - 18 h
+CH-TD,121,LUN � VEN 19 h - 21 h  SAM 9 h - 18 h DIM 13 h - 18 h
+CH-TD,125,LUN � VEN 19 h - 21 h  SAM 9 h - 18 h DIM 13 h - 18 h
+CH-TM,28,LUN � VEN 9 h 30 - 15 h 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-TM,67,LUN � VEN 9 h 30 - 15 h 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-TM,109,LUN � VEN 9 h 30 - 15 h 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-TM,125,LUN � VEN 9 h 30 - 15 h 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-TN,28,SAM 9 h 18 h DIM 13 h - 18 h
+CH-TN,125,SAM 9 h 18 h DIM 13 h - 18 h
+CH-TP,28,LUN � VEN 9 h - 11 h  14 h -15 h 30 18 h 30- 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-TP,110,LUN � VEN 9 h - 11 h  14 h -15 h 30 18 h 30- 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-TP,125,LUN � VEN 9 h - 11 h  14 h -15 h 30 18 h 30- 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-TP,253,LUN � VEN 9 h - 11 h  14 h -15 h 30 18 h 30- 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-TP,254,LUN � VEN 9 h - 11 h  14 h -15 h 30 18 h 30- 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CH-TQ,110,LUN � VEN 18 h 30- 21 h SAM 15 h 30 - 18 h DIM 13 h - 18 h
+CH-TQ,125,LUN � VEN 18 h 30- 21 h SAM 15 h 30 - 18 h DIM 13 h - 18 h
+CH-TQ,256,LUN � VEN 18 h 30- 21 h SAM 15 h 30 - 18 h DIM 13 h - 18 h
+CH-TR,260,LUN � VEN 9 h - 17 h
+CH-TT,1372,24 HEURES - 7 JOURS SUR 7
+CH-TU,28,LUN � VEN 9 h - 15 h  19 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-TU,30,LUN � VEN 9 h - 15 h  19 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-TU,121,LUN � VEN 9 h - 15 h  19 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-TU,125,LUN � VEN 9 h - 15 h  19 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-TX,259,LUN � VEN. 9h - 18h
+CH-TY,283,9h - MINUIT - TOUS LES JOURS
+CH-UA,28,LUN � VEN 9 h - 14 h 30 19 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-UA,121,LUN � VEN 9 h - 14 h 30 19 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-UA,125,LUN � VEN 9 h - 14 h 30 19 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-UA,188,LUN � VEN 9 h - 14 h 30 19 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-UB,28,LUN JEU VEN 9 h - 21 h MAR 14 h - 21 h MER 11 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-UB,125,LUN JEU VEN 9 h - 21 h MAR 14 h - 21 h MER 11 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-UB,1403,LUN JEU VEN 9 h - 21 h MAR 14 h - 21 h MER 11 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-UB,1404,LUN JEU VEN 9 h - 21 h MAR 14 h - 21 h MER 11 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CH-UF,28,LUN � VEN 13 h 30 - 21h  SAM 9 h - 18 h DIM 13 h - 18 h
+CH-UF,125,LUN � VEN 13 h 30 - 21h  SAM 9 h - 18 h DIM 13 h - 18 h
+CH-UF,317,LUN � VEN 13 h 30 - 21h  SAM 9 h - 18 h DIM 13 h - 18 h
+CH-UO,28,LUN � VEN  13h - 21h et SAM 9h - 18h DIM 13h - 18h
+CH-UO,125,LUN � VEN  13h - 21h et SAM 9h - 18h DIM 13h - 18h
+CH-UO,286,LUN � VEN  13h - 21h et SAM 9h - 18h DIM 13h - 18h
+CI-AA,37,ARRET INT. 7 h - 9 h 30 LUN � VEN
+CI-AB,38,ARRET INT.  8 h - 9 h 30 LUN � VEN
+CI-AC,39,STAT. INT. EXCEPT� LIVR. 8 h - 12 h LUN � VEN\P  EXCEPT� LIVRAISON 8 h - 12 h LUN � VEN
+CI-AF,41,STAT. INT. EXCEPT� D�B. 18 h - 24 h
+CI-DB,37,P 15 min D�B. 7 h -9 h 30 et 15 h 30 - 18 h LUN � VEN
+CI-DB,62,P 15 min D�B. 7 h -9 h 30 et 15 h 30 - 18 h LUN � VEN
+CI-DE,37,P 15 min D�B. 7 h - 9 h 30 LUN � VEN
+CI-PB,53,ARRET INT. 15 h 30 - 17 h 30 LUN � VEN
+CI-PJ,56,STAT. INT. 17 h - 24 h
+CI-QY,38,ARRET INT. 8 h - 9 h 30 et 16 h - 18 h LUN � VEN
+CI-QY,47,ARRET INT. 8 h - 9 h 30 et 16 h - 18 h LUN � VEN
+CI-RG,48,ARRET INT. 16 h - 18 h 30 LUN � VEN
+CI-SD,40,P 15 min.  D�barcad�re 7h-9h30 et 15h-18h Lun au Ven
+CI-SD,175,P 15 min.  D�barcad�re 7h-9h30 et 15h-18h Lun au Ven
+CI-SE,181,P 15 min D�b. 7 h - 18 h LUN � VEN
+CI-SF,182,STAT. INT. 8 h - 18 h LUN � SAM
+CI-SN,80,ARRET INT. 6 h - 9 h et 15 h - 18 h 30 LUN � VEN
+CI-SN,179,ARRET INT. 6 h - 9 h et 15 h - 18 h 30 LUN � VEN
+CP-AA,28,LUN � VEN 9 h - 21 h SAM 9 h - 18 h
+CP-AA,108,LUN � VEN 9 h - 21 h SAM 9 h - 18 h
+CQ-AA,28,LUN � VEN 9 h - 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CQ-AA,108,LUN � VEN 9 h - 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CQ-AA,125,LUN � VEN 9 h - 21 h SAM 9 h - 18 h DIM 13 h - 18 h
+CQ-AC,34,LUN � SAM 9 h - 18 h DIM 13 h - 18 h
+CQ-AC,125,LUN � SAM 9 h - 18 h DIM 13 h - 18 h
+CQ-AK,28,LUN � VEN 9 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CQ-AK,111,LUN � VEN 9 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CQ-AK,125,LUN � VEN 9 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CQ-DG,27,LUN � VEN 9 h 30 - 15 h 30 SAM 9 h - 18 h DIM 13 h - 18 h
+CQ-DG,28,LUN � VEN 9 h 30 - 15 h 30 SAM 9 h - 18 h DIM 13 h - 18 h
+CQ-DG,125,LUN � VEN 9 h 30 - 15 h 30 SAM 9 h - 18 h DIM 13 h - 18 h
+CQ-QE,28,LUN � VEN 12 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CQ-QE,115,LUN � VEN 12 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CQ-QE,125,LUN � VEN 12 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CQ-QF,27,LUN � VEN 9 h 30 - 15 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CQ-QF,28,LUN � VEN 9 h 30 - 15 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CQ-QF,110,LUN � VEN 9 h 30 - 15 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CQ-QF,125,LUN � VEN 9 h 30 - 15 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CQ-QT,28,LUN � VEN 9 h - 15 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CQ-QT,31,LUN � VEN 9 h - 15 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CQ-QT,110,LUN � VEN 9 h - 15 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CQ-QT,125,LUN � VEN 9 h - 15 h 30 18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CQ-RC,28,LUN � VEN 9 h - 15 h 30 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CQ-RC,31,LUN � VEN 9 h - 15 h 30 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CQ-RC,109,LUN � VEN 9 h - 15 h 30 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CQ-RC,125,LUN � VEN 9 h - 15 h 30 18 h - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CQ-RN,28,LUN � VEN 9 h - 15 h  18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CQ-RN,30,LUN � VEN 9 h - 15 h  18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CQ-RN,110,LUN � VEN 9 h - 15 h  18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CQ-RN,125,LUN � VEN 9 h - 15 h  18 h 30 - 21 h SAM 9 h 18 h DIM 13 h - 18 h
+CR-AY,60,ARRET INT. 6 h - 9 h 30 LUN � VEN AVEC REMORQUAGE
+CR-QN,57,ARRET INT. 6 h 30 - 9 h 30 LUN � VEN. AVEC REMORQUAGE
+CR-QO,58,ARRET INT. 15 h 30 - 18 h 30 LUN � VEN AVEC REMORQUAGE
+CR-QP,57,ARRET INT. 6 h 30 - 9 h 30 et 15 h 30 - 18 h 30 LUN � VEN AVEC REMORQUAGE
+CR-QP,58,ARRET INT. 6 h 30 - 9 h 30 et 15 h 30 - 18 h 30 LUN � VEN AVEC REMORQUAGE
+CR-RC,62,ARRET INT. 15 h 30 - 18 h LUN � VEN AVEC REMORQUAGE
+CR-RN,80,ARRET INT. 15 h - 18 h 30 LUN � VEN AVEC  REMORQUAGE
+CR-SK,186,ARRET INT. 14 h 30 - 18 h 30 LUN � VEN AVEC REMORQUAGE
+CU-AA,25,LUN ET MAR ET MER ET SAM 9 h - 18 h JEU ET VEN 9 h - 21 h
+CU-AA,26,LUN ET MAR ET MER ET SAM 9 h - 18 h JEU ET VEN 9 h - 21 h
+CU-AA,28,LUN ET MAR ET MER ET SAM 9 h - 18 h JEU ET VEN 9 h - 21 h
+MB-RT,142,9 h - 21 h AVEC MAX JOUR P$ 6 HEURES
+MM-08,259,LUN � VEN 9 h - 18 h (8 $ MAX)
+MM-14,1371,6 h - 17 h  LUN - VEN (14 $ MAX)
+MN-08,283,9 h - MINUIT TOUS LES JOURS (8 $ MAX)
+MT-10,1372,24h /24 7j /7 -  (10 $ / 24h)
+MT-11,1372,24h /24 7j /7 -  (11 $ / 24h)
+MT-12,1372,24h /24 7j /7 -  (12 $ / 24h)
+MT-14,1372,24h /24 7j /7 -  (14 $ / 24h)
+MT-16,1372,24h /24 7j /7 -  (16 $ / 24h)
+MT-20,1372,24h /24h 7j /7 - (20 $ / 24h)
+MX-01,109,MAX 3 h18 h - 21 h LUN � VEN
+MX-02,28,MAX 3 h 9h - 18 h SAM et 13 h - 18 h DIM
+MX-02,125,MAX 3 h 9h - 18 h SAM et 13 h - 18 h DIM
+MX-03,142,MAX 4 h 9h - 21 h
+MX-04,28,MAX 8 h 9h - 21 h LUN � VEN 9 h - 18 h  SAM et 13 h - 18 h DIM
+MX-04,108,MAX 8 h 9h - 21 h LUN � VEN 9 h - 18 h  SAM et 13 h - 18 h DIM
+MX-04,125,MAX 8 h 9h - 21 h LUN � VEN 9 h - 18 h  SAM et 13 h - 18 h DIM
+MX-05,28,MAX 11 h 9 h - 21 h LUN � VEN 9 h - 18 h  SAM et 13 h - 18 h DIM
+MX-05,108,MAX 11 h 9 h - 21 h LUN � VEN 9 h - 18 h  SAM et 13 h - 18 h DIM
+MX-05,125,MAX 11 h 9 h - 21 h LUN � VEN 9 h - 18 h  SAM et 13 h - 18 h DIM
+MX-06,28,MAX 3 h 9 h - 21 h LUN � VEN 9h - 18 h SAM
+MX-06,108,MAX 3 h 9 h - 21 h LUN � VEN 9h - 18 h SAM
+MX-07,28,MAX 3 h 9h - 18 h SAM
+MX-10,125,MAX 3 h13 h - 18 h DIM
+MX-11,34,MAX 3 h 9 h - 18 h LUN � SAM
+MX-12,108,MAX 3 h 9 h - 21 h LUN � VEN
+MX-14,28,MAX 4 h 9 h - 21 h LUN � VEN 9h - 18h SAM13h - 18h DIM
+MX-14,108,MAX 4 h 9 h - 21 h LUN � VEN 9h - 18h SAM13h - 18h DIM
+MX-14,125,MAX 4 h 9 h - 21 h LUN � VEN 9h - 18h SAM13h - 18h DIM
+MX-16,28,MAX 12 h 9 h - 21 h LUN � VEN 9h - 18h SAM 13h - 18h DIM  h 9 h - 21 h LUN � VEN 9 h - 18 h SAM 13 h - 18 h DIM
+MX-16,108,MAX 12 h 9 h - 21 h LUN � VEN 9h - 18h SAM 13h - 18h DIM  h 9 h - 21 h LUN � VEN 9 h - 18 h SAM 13 h - 18 h DIM
+MX-16,125,MAX 12 h 9 h - 21 h LUN � VEN 9h - 18h SAM 13h - 18h DIM  h 9 h - 21 h LUN � VEN 9 h - 18 h SAM 13 h - 18 h DIM
+MX-17,35,MAX 3 h18 h - 21 h JEU ET VEN
+MX-19,64,MAX 8 h 9h - 17 h LUN � SAM 13 h - 18 h DIM
+MX-19,127,MAX 8 h 9h - 17 h LUN � SAM 13 h - 18 h DIM
+MX-21,25,MAX 3 h 9 h - 18 h LUN ET MAR ET MER ET SAM 9h - 21h JEU ET VEN
+MX-21,26,MAX 3 h 9 h - 18 h LUN ET MAR ET MER ET SAM 9h - 21h JEU ET VEN
+MX-21,28,MAX 3 h 9 h - 18 h LUN ET MAR ET MER ET SAM 9h - 21h JEU ET VEN
+MX-25,108,MAX 3 h 9 h - 21 h LUN � VEN 9h - 18 h SAM et DIM
+MX-25,332,MAX 3 h 9 h - 21 h LUN � VEN 9h - 18 h SAM et DIM
+PA-TD,319,\P  R�serv� aux handicap�s
+PA-VL,319,Interdit d attacher v�lo apr�s un parcom�tre
+PC-GR,319,Tarif� EXCEPT� pour les d�tenteurs d'une vignette SRRR du secteur
+PC-PI,319,Except� p�riodes interdites
+PC-TD,319,R�serv�e aux personnes handicap�es
+PC-VE,319,R�serv�e v�hicule �lectrique en recharge (collant blanc officiel)
+PC-VR,319,R�serv�e v�hicule �lectrique en recharge (coll. orange)
+SH-AA,28,LUN � VEN 9 h - 21 h SAM 9 h 18 h
+SH-AA,108,LUN � VEN 9 h - 21 h SAM 9 h 18 h
+SH-AC,34,LUN � SAM 9 h - 18 h
+SH-AI,28,LUN � VEN 9 h - 16 h 18 h - 21 h SAM 9 h 18 h
+SH-AI,32,LUN � VEN 9 h - 16 h 18 h - 21 h SAM 9 h 18 h
+SH-AI,109,LUN � VEN 9 h - 16 h 18 h - 21 h SAM 9 h 18 h
+SH-AJ,27,LUN � VEN 9 h 30 - 15 h 30 18 h - 21 h SAM 9 h 18 h
+SH-AJ,28,LUN � VEN 9 h 30 - 15 h 30 18 h - 21 h SAM 9 h 18 h
+SH-AJ,109,LUN � VEN 9 h 30 - 15 h 30 18 h - 21 h SAM 9 h 18 h
+SH-DG,104,LUN � VEN 16 h - 21 h  SAM 16 h - 18 h
+SH-DG,185,LUN � VEN 16 h - 21 h  SAM 16 h - 18 h
+SH-PC,27,LUN � VEN 9 h 30 - 15 h 30 et 19 h - 21 h SAM 9 h 30 - 15 h 30
+SH-PC,121,LUN � VEN 9 h 30 - 15 h 30 et 19 h - 21 h SAM 9 h 30 - 15 h 30
+SH-PC,1365,LUN � VEN 9 h 30 - 15 h 30 et 19 h - 21 h SAM 9 h 30 - 15 h 30
+SH-PD,28,LUN � VEN 18 h - 21 h  SAM 9 h  - 18 h
+SH-PD,109,LUN � VEN 18 h - 21 h  SAM 9 h  - 18 h
+SH-SD,28,LUN � VEN 9 h 30 - 15 h 18 h - 21 h SAM 9 h 18 h
+SH-SD,67,LUN � VEN 9 h 30 - 15 h 18 h - 21 h SAM 9 h 18 h
+SH-SD,109,LUN � VEN 9 h 30 - 15 h 18 h - 21 h SAM 9 h 18 h
+SH-SR,28,LUN � VEN 10 h - 15 h et 19 h - 21 h SAM 9 h - 18 h
+SH-SR,121,LUN � VEN 10 h - 15 h et 19 h - 21 h SAM 9 h - 18 h
+SH-SR,1366,LUN � VEN 10 h - 15 h et 19 h - 21 h SAM 9 h - 18 h
+SH-TZ,28,LUN � VEN 10 h -14 h et 16 h - 21 h SAM 9 h 18 h
+SH-TZ,104,LUN � VEN 10 h -14 h et 16 h - 21 h SAM 9 h 18 h
+SH-TZ,196,LUN � VEN 10 h -14 h et 16 h - 21 h SAM 9 h 18 h
+SH-UA,28,LUN � VEN 17 h - 21 h SAM 9 h - 18 h
+SH-UA,114,LUN � VEN 17 h - 21 h SAM 9 h - 18 h
+SH-UU,28,LUN � JEU 10 h 30 - 14 h et 16 h - 21 h VEN 10 h - 12 h et 13 h - 21 h  SAM 9 h - 18 h
+SH-UU,200,LUN � JEU 10 h 30 - 14 h et 16 h - 21 h VEN 10 h - 12 h et 13 h - 21 h  SAM 9 h - 18 h
+SH-UU,201,LUN � JEU 10 h 30 - 14 h et 16 h - 21 h VEN 10 h - 12 h et 13 h - 21 h  SAM 9 h - 18 h
+SH-UU,202,LUN � JEU 10 h 30 - 14 h et 16 h - 21 h VEN 10 h - 12 h et 13 h - 21 h  SAM 9 h - 18 h
+SH-UU,1369,LUN � JEU 10 h 30 - 14 h et 16 h - 21 h VEN 10 h - 12 h et 13 h - 21 h  SAM 9 h - 18 h
+SI-AA,37,ARRET INT. 7 h - 9 h 30 LUN � VEN
+SI-AB,38,ARRET INT.  8 h - 9 h 30 LUN � VEN
+SI-AC,39,STAT. INT. EXCEPT� LIVR. 7 h 8 h ou 9 h - 12 h LUN � VEN\P  EXCEPT� LIVRAISON 8 h - 12 h LUN � VEN
+SI-AE,40,ARRET INT. 7 h 30 - 9 h 30 LUN � VEN
+SI-AF,41,STAT. INT. EXCEPT� D�B. 18 h - 24 h
+SI-AK,38,STAT. INT. 7 h ou 8 h - 9 h 30 LUN � VEN
+SI-AV,45,STAT. INT. EXCEPT� LIVR. 7h ou 8h ou 9h - 11h LUN � VEN
+SI-AY,288,STAT. INT. 8 h ou 9 h - 15 h 30 LUN AU VEN
+SI-AZ,62,P15 min D�B. 7 h - 10 h et 15 h 30 - 18 h  LUN � VEN
+SI-AZ,194,P15 min D�B. 7 h - 10 h et 15 h 30 - 18 h  LUN � VEN
+SI-BA,1381,ARR�T INT. 5 h 30 - 21 h 30 LUN � VEN
+SI-DA,46,P 15 min D�B. 7 h - 9 h et 16 h - 18 h LUN � VEN
+SI-DA,47,P 15 min D�B. 7 h - 9 h et 16 h - 18 h LUN � VEN
+SI-DB,37,P 15 min D�B. 7 h -9 h 30 et 15 h 30 - 18 h LUN � VEN
+SI-DB,62,P 15 min D�B. 7 h -9 h 30 et 15 h 30 - 18 h LUN � VEN
+SI-DC,40,P 15 min D�B. 7 h 30 - 9 h 30 et 15 h 30 - 18 h LUN � VEN
+SI-DC,62,P 15 min D�B. 7 h 30 - 9 h 30 et 15 h 30 - 18 h LUN � VEN
+SI-DF,62,P 15 min D�B. 15 h 30 - 18 h LUN � VEN
+SI-DG,319,ARR�T INT. 6 h 30 - 9 h 30 et 15 h 30 - 19 h
+SI-DH,1383,P 15 min  7 h 30 - 9 h MAR et JEU
+SI-DI,175,P 15 min D�B. 7 h  - 10 h et 15 h - 18 h LUN � VEN
+SI-DI,194,P 15 min D�B. 7 h  - 10 h et 15 h - 18 h LUN � VEN
+SI-DJ,1383,P 15 min  7 h 30 - 9 h MAR et JEU
+SI-DL,48,ARRET INT. 16 h - 18 h 30 LUN � VEN 01/11 AU 31/12
+SI-DM,48,ARRET INT. 16 h - 18 h 30 LUN � VEN 01/01 AU 31/03
+SI-DQ,174,STAT. INT. EN TOUT TEMPS - 1 AVRIL AU 31 OCT (saisonnier)
+SI-DR,174,STAT. INT. EN TOUT TEMPS - 1 AVRIL AU 30 NOV (saisonnier)
+SI-DS,174,STAT. INT. EN TOUT TEMPS - 1 AVRIL AU 14 OCT (saisonnier)
+SI-DU,174,STAT. INT. EN TOUT TEMPS - 1 5 JUIN AU 14 SEPT (saisonnier)
+SI-MA,78,STAT. INT. 8 h - 9 h LUN � VEN
+SI-MB,1399,ARRET INT. 6 h 30 - 9 h LUN � VEN
+SI-NA,56,STAT. INT. 17 h - 9 h
+SI-NA,101,STAT. INT. 17 h - 9 h
+SI-NB,1376,STAT. INT.  VEN ET SAM ET DIM (21/06 au 04/08 en 2019) - March� des possibles
+SI-NC,109,STAT. INT. 18 h - 21 h LUN � VEN
+SI-ND,1415,STAT. INT. 0 h - 24 h LUN � VEN
+SI-NE,1416,STAT. INT. 0 h - 24 h SAM et DIM
+SI-PA,52,STAT. INT. EXCEPT� PERMIS 18 h - 23 h
+SI-PB,53,ARRET INT. 15 h 30 - 17 h 30 LUN � VEN
+SI-PC,54,STAT. INT. EXCEPT� LIVR. 13 h - 17 h LUN � VEN
+SI-PE,47,ARRET INT. 16 h -18 h LUN � VEN
+SI-PG,41,STAT. INT. 18 h - 24 h
+SI-PI,41,STAT. INT. EXCEPT� AUTOBUS 18 h - 24 h
+SI-PJ,56,STAT. INT. 17 h - 24 h
+SI-PM,159,STAT. INT. 18 h - 23 h  LUN � VEN
+SI-PO,285,STAT. INT. 9 h - 13 h LUN � SAM
+SI-PP,203,P 15 min D�B 8 h - 17 h LUN � VEN sept. � juin
+SI-PQ,203,P 15 min D�B 8 h - 17 h LUN � VEN sept. � juin
+SI-PT,40,P 15 min D�B. 7 h 30 - 9 h 30 et 16 h - 18 h LUN � VEN
+SI-PT,47,P 15 min D�B. 7 h 30 - 9 h 30 et 16 h - 18 h LUN � VEN
+SI-PU,124,ARR�T INT. 6 h - 10 h LUN � VEN
+SI-PV,138,P 15 min D�B 7 h ou 8 h ou 9 h - 16 h LUN � VEN
+SI-PX,37,P 15 min D�B 7 h - 9 h 30 15 h - 18 h LUN � VEN sept. � juin
+SI-PX,175,P 15 min D�B 7 h - 9 h 30 15 h - 18 h LUN � VEN sept. � juin
+SI-PY,37,P 15 min D�B 7 h - 9 h 30 15 h - 18 h LUN � VEN sept. � juin
+SI-PY,175,P 15 min D�B 7 h - 9 h 30 15 h - 18 h LUN � VEN sept. � juin
+SI-PZ,79,STAT. INT. 21 h - 8 h 30 LUN AU DIM
+SI-PZ,306,STAT. INT. 21 h - 8 h 30 LUN AU DIM
+SI-QF,37,ARRET INT. 7 h - 9 h 30 et 15 h 30 - 18 h 30 LUN � VEN
+SI-QF,58,ARRET INT. 7 h - 9 h 30 et 15 h 30 - 18 h 30 LUN � VEN
+SI-QG,46,ARRET INT. 7 h - 9 h LUN � VEN
+SI-QK,37,ARRET INT. 7 h - 9 h 30 et 15 h 30 - 17 h 30 LUN � VEN
+SI-QK,53,ARRET INT. 7 h - 9 h 30 et 15 h 30 - 17 h 30 LUN � VEN
+SI-QO,58,ARRET INT. 15 h 30 - 18 h 30 LUN � VEN
+SI-QS,59,STAT. INT. EXCEPT� D�B. 18 h 30 - 24 h
+SI-QY,38,ARRET INT. 8 h - 9 h 30 et 16 h - 18 h LUN � VEN
+SI-QY,47,ARRET INT. 8 h - 9 h 30 et 16 h - 18 h LUN � VEN
+SI-RB,37,ARRET INT. 7 h - 9 h 30 et 15 h - 18 h 30 LUN � VEN
+SI-RB,80,ARRET INT. 7 h - 9 h 30 et 15 h - 18 h 30 LUN � VEN
+SI-RC,62,ARRET INT. 15 h 30 - 18 h LUN � VEN
+SI-RD,40,P 15 min.  D�barcad�re 7h30-9h30 et 15h-18h Lun au Ven
+SI-RD,175,P 15 min.  D�barcad�re 7h30-9h30 et 15h-18h Lun au Ven
+SI-RF,38,ARRET INT. 8 h - 9 h 30 et 16 h - 18 h 30 LUN � VEN
+SI-RF,48,ARRET INT. 8 h - 9 h 30 et 16 h - 18 h 30 LUN � VEN
+SI-RG,48,ARRET INT. 16 h - 18 h 30 LUN � VEN
+SI-RP,119,STAT. INT. EXCEPT� D�B. 13 h - 16 h
+SI-RU,146,STAT. INT. 8 h - 17 h LUN � JEU 8 h - 12 h30 VEN
+SI-RU,1361,STAT. INT. 8 h - 17 h LUN � JEU 8 h - 12 h30 VEN
+SI-RY,107,STAT. INT. 19 h - 7 h
+SI-RY,1414,STAT. INT. 19 h - 7 h
+SI-RZ,138,STAT. INT. 7 h - 16 h LUN � VEN EXCEPT� LIVRAISON
+SI-SD,37,P 15 min.  D�barcad�re 7h-9h30 et 15h-18h Lun au Ven
+SI-SD,175,P 15 min.  D�barcad�re 7h-9h30 et 15h-18h Lun au Ven
+SI-SE,181,P 15 min D�b. 7 h ou 8 h  ou 9 h - 18 h LUN � VEN
+SI-SF,182,STAT. INT. 7h ou 8 h ou 9h - 18 h LUN � SAM
+SI-SG,184,STAT. INT. 8 h - 16 h LUN � SAM
+SI-SH,47,STAT. INT. 7 h - 9 h ET 16 h - 18 h LUN � VEN
+SI-SH,100,STAT. INT. 7 h - 9 h ET 16 h - 18 h LUN � VEN
+SI-SJ,41,STAT. INT. EXCEPT� D�B. 18 h - 3 h
+SI-SJ,193,STAT. INT. EXCEPT� D�B. 18 h - 3 h
+SI-SK,230,STAT. INT. 7 h ou 8 h - 17 h LUN � SAM
+SI-SL,33,STAT. INT. 9 h 30 - 16 h LUN � VEN
+SI-SM,315,STAT. INT. 9 h 30 - 16 h LUN au SAM
+SI-SN,80,ARRET INT. 6 h - 9 h et 15 h - 18 h 30 LUN � VEN
+SI-SN,179,ARRET INT. 6 h - 9 h et 15 h - 18 h 30 LUN � VEN
+SI-SR,203,STAT. INT. 7 h 8 h ou 9 h  - 17 h LUN � VEN
+SI-SS,212,STAT. INT. EXCEPT� D�B. 9 h - 21 h DIM
+SI-SU,100,ARRET INT. 7 h 30 - 9 h LUN � VEN
+SI-SV,48,P 15 min D�B. 7 h 30 -9 h et 16 h - 18 h 30 LUN � VEN
+SI-SV,78,P 15 min D�B. 7 h 30 -9 h et 16 h - 18 h 30 LUN � VEN
+SI-SX,138,STAT. INT. 9 h � 16 h LUN � VEN
+SI-SY,232,STAT. INT. 6 h � 12 h LUN � VEN
+SI-SZ,41,STAT. INT. 18  h - 7 h
+SI-TC,99,STAT. INT. 7h  ou 8 h ou 9 h � 15 h LUN � VEN
+SI-TD,240,STAT. INT. 8  h 30 - 15 h LUN � VEN
+SI-TF,203,ARR�T INT.  LUN � VEN 8 h - 17 h 15 AO�T au 31 d�c ++++
+SI-TG,179,ARRET INT. 6 h - 9 h  LUN � VEN
+SI-TI,203,ARR�T INT.  LUN � VEN 8 h - 17 h 1 JAN au 23 JUIN
+SI-TJ,27,STAT. INT. 9  h 30 - 15 h 30 LUN � VEN
+SI-TK,248,STAT. INT. 6 h - 19 h LUN � VEN
+SI-TM,181,STAT. INT. 7h ou 8 h ou 9 h - 18 h LUN � VEN
+SI-TN,33,STAT. INT. 9 h 30 - 16 h LUN � VEN
+SI-TO,33,STAT. INT. 9 h 30 - 16 h LUN � VEN
+SI-TQ,82,STAT. INT. 9 h 30 - 18 h LUN � VEN
+SI-TR,255,STAT. INT. 11 h - 14 LUN � VEN
+SI-TS,257,STAT. INT. 7 h - 15 h 30 LUN � SAM
+SI-TT,258,STAT. INT. 17 h - 23 h LUN � VEN 9 h - 23 h SAM + DIM
+SI-TT,261,STAT. INT. 17 h - 23 h LUN � VEN 9 h - 23 h SAM + DIM
+SI-TU,237,ARRET INT. 15 h - 19 h LUN � VEN
+SI-TV,1400,STAT. INT. 7 h - 14 h MAR 7 h - 11 h MER
+SI-TV,1401,STAT. INT. 7 h - 14 h MAR 7 h - 11 h MER
+SI-TX,182,P 15  min D�barcad�re 7h ou 8h - 18h LUN � SAM
+SI-TY,295,STAT. INT. 8 h - 14 h LUN � VEN
+SI-TZ,194,STAT. INT. 8 h 10 h et 14 h - 16 h LUN � VEN
+SI-TZ,296,STAT. INT. 8 h 10 h et 14 h - 16 h LUN � VEN
+SI-UA,308,STAT. INT. 18 h - 21 h
+SI-UB,309,P 15  min D�barcad�re 7h - 18h 30 LUN � VEN
+SI-UC,203,ARR�T INT. 8h - 17h LUN � VEN sept � juin
+SI-UD,203,ARR�T INT. 8h - 17h LUN � VEN sept � juin
+SI-UF,316,STAT. INT. 9 h 30 - 13 h 30 LUN � VEN
+SI-UG,120,STAT. INT. 9 h 30 - 14 h 30 LUN � VEN
+SI-UH,180,ARR�T INT. EXCEPT� AUTOBUS 15H30 -19h LUN � VEN
+SI-UI,324,STAT. INT. 8 h 30 - 15 h LUN et MER et VEN
+SI-UJ,325,STAT. INT. 10 h - 16 h LUN et MER et VEN
+SI-UK,336,STAT. INT. 7 h - 8 h 30 LUN et MER et VEN et DIM
+SI-UL,337,STAT. INT. 7 h - 8 h 30 MAR et JEU et SAM
+SI-UM,90,STAT. INT. 7 h - 8 h 30 LUN et JEU
+SI-UN,89,STAT. INT. 7 h - 8 h 30 MAR et VEN
+SI-UO,98,STAT. INT.  EXCEPT� LIVRAISON 7H - 13H LUN � VEN
+SI-UP,37,ARR�T INT. EXCEPT� BUS 7h-9h30 et 14h30-18h30  LUN � VEN sept � juin
+SI-UP,186,ARR�T INT. EXCEPT� BUS 7h-9h30 et 14h30-18h30  LUN � VEN sept � juin
+SI-UQ,37,ARR�T INT. EXCEPT� BUS 7h-9h30 et 14h30-18h30  LUN � VEN sept � juin
+SI-UQ,186,ARR�T INT. EXCEPT� BUS 7h-9h30 et 14h30-18h30  LUN � VEN sept � juin
+SI-US,101,STAT. INT. EXCEPT� BUS 7h - 9h 1 mai au 1 oct
+SI-UT,124,STAT. INT. EXCEPT� BUS 6h - 10h et 15h -19h LUN � VEN
+SI-UT,237,STAT. INT. EXCEPT� BUS 6h - 10h et 15h -19h LUN � VEN
+SI-UU,198,STAT. INT. EXCEPT� AUTOBUS  8 h 30 - 10 h 30 et 14 h - 16 h LUN � JEU et 8 h 30 - 10 h et 12 h - 13 h VEN
+SI-UU,265,STAT. INT. EXCEPT� AUTOBUS  8 h 30 - 10 h 30 et 14 h - 16 h LUN � JEU et 8 h 30 - 10 h et 12 h - 13 h VEN
+SI-UU,1367,STAT. INT. EXCEPT� AUTOBUS  8 h 30 - 10 h 30 et 14 h - 16 h LUN � JEU et 8 h 30 - 10 h et 12 h - 13 h VEN
+SI-UU,1370,STAT. INT. EXCEPT� AUTOBUS  8 h 30 - 10 h 30 et 14 h - 16 h LUN � JEU et 8 h 30 - 10 h et 12 h - 13 h VEN
+SI-UZ,296,P 15  min D�barcad�re 9h30 - 10h30 et 14h - 16h LUN � VEN
+SI-UZ,1355,P 15  min D�barcad�re 9h30 - 10h30 et 14h - 16h LUN � VEN
+SP-AA,25,LUN ET MAR ET MER ET SAM 9 h - 18 h JEU ET VEN 9 h - 21 h
+SP-AA,26,LUN ET MAR ET MER ET SAM 9 h - 18 h JEU ET VEN 9 h - 21 h
+SP-AA,28,LUN ET MAR ET MER ET SAM 9 h - 18 h JEU ET VEN 9 h - 21 h
+SP-AC,34,LUN � SAM 9 h - 18 h
+SP-AJ,27,LUN ET MAR ET MER 9 h 30 - 15 h 30 JEU ET VEN 9 h 30 - 15 h 30 et 18 h - 21 h SAM 9 h - 18 h
+SP-AJ,28,LUN ET MAR ET MER 9 h 30 - 15 h 30 JEU ET VEN 9 h 30 - 15 h 30 et 18 h - 21 h SAM 9 h - 18 h
+SP-AJ,35,LUN ET MAR ET MER 9 h 30 - 15 h 30 JEU ET VEN 9 h 30 - 15 h 30 et 18 h - 21 h SAM 9 h - 18 h
+SP-AK,28,LUN ET MAR ET MER 9 h 30 - 18 h JEU ET VEN 9 h 30 - 21 h SAM 9 h - 18 h
+SP-AK,49,LUN ET MAR ET MER 9 h 30 - 18 h JEU ET VEN 9 h 30 - 21 h SAM 9 h - 18 h
+SP-AK,50,LUN ET MAR ET MER 9 h 30 - 18 h JEU ET VEN 9 h 30 - 21 h SAM 9 h - 18 h
+SP-BE,64,LUN � SAM 9 h - 17 h
+SP-QE,28,LUN ET MAR ET MER 12 h - 18 h JEU ET VEN 12 h - 21 h SAM 9 h - 18 h
+SP-QE,71,LUN ET MAR ET MER 12 h - 18 h JEU ET VEN 12 h - 21 h SAM 9 h - 18 h
+SP-QE,72,LUN ET MAR ET MER 12 h - 18 h JEU ET VEN 12 h - 21 h SAM 9 h - 18 h
+SP-QX,320,LUN et MER 15 h - 18 h MAR et SAM 9 h - 18 h  JEU 9 h - 21 h VEN 15 h - 21 h
+SP-QX,322,LUN et MER 15 h - 18 h MAR et SAM 9 h - 18 h  JEU 9 h - 21 h VEN 15 h - 21 h
+SP-QX,326,LUN et MER 15 h - 18 h MAR et SAM 9 h - 18 h  JEU 9 h - 21 h VEN 15 h - 21 h
+SP-QX,328,LUN et MER 15 h - 18 h MAR et SAM 9 h - 18 h  JEU 9 h - 21 h VEN 15 h - 21 h
+SP-QY,321,LUN et MER 16 h - 18 h  MAR et SAM 9 h - 18 h JEU 9 h - 21 h VEN 16 h - 21 h
+SP-QY,323,LUN et MER 16 h - 18 h  MAR et SAM 9 h - 18 h JEU 9 h - 21 h VEN 16 h - 21 h
+SP-QY,326,LUN et MER 16 h - 18 h  MAR et SAM 9 h - 18 h JEU 9 h - 21 h VEN 16 h - 21 h
+SP-QY,328,LUN et MER 16 h - 18 h  MAR et SAM 9 h - 18 h JEU 9 h - 21 h VEN 16 h - 21 h
+SR-AA,37,ARRET INT. 7 h - 9 h 30 LUN � VEN AVEC REMORQUAGE
+SR-AY,60,ARRET INT. 6 h - 9 h 30 LUN � VEN  AVEC REMORQUAGE
+SR-PB,53,ARRET INT. 15 h 30 - 17 h 30 LUN � VEN AVEC REMORQUAGE
+SR-QF,37,ARRET INT. 7 h - 9 h 30 et 15 h 30 - 18 h 30 LUN � VEN AVEC REMORQUAGE
+SR-QF,58,ARRET INT. 7 h - 9 h 30 et 15 h 30 - 18 h 30 LUN � VEN AVEC REMORQUAGE
+SR-QN,57,ARRET INT. 6 h 30 - 9 h 30 LUN � VEN. AVEC REMORQUAGE
+SR-QO,58,ARRET INT. 15 h 30 - 18 h 30 LUN � VEN AVEC REMORQUAGE
+SR-QX,60,ARRET INT. 6 h - 9 h 30 et 15 h - 18 h 30 LUN � VEN AVEC REMORQUAGE
+SR-QX,80,ARRET INT. 6 h - 9 h 30 et 15 h - 18 h 30 LUN � VEN AVEC REMORQUAGE
+SR-RN,80,ARRET INT. 15 h - 18 h 30 LUN � VEN AVEC  REMORQUAGE
+SR-RQ,122,ARRET. INT. EXCEPT� AUTOBUS 14 h 30 - 19 h  LUN - VEN AVEC REMORQUAGE
+SR-SI,186,ARRET INT. 5 h  30 - 9 h 30 et 14 h 30 - 18 h 30 LUN � VEN  AVEC REMORQUAGE
+SR-SI,187,ARRET INT. 5 h  30 - 9 h 30 et 14 h 30 - 18 h 30 LUN � VEN  AVEC REMORQUAGE
+SR-SK,186,ARRET INT. 14 h 30 - 18 h 30 LUN � VEN  AVEC REMORQUAGE
+XX-01,174,Stationnement GRATUIT (24 d�cembre au 26 d�cembre) OUT
+XX-02,174,Stationnement GRATUIT (31 d�cembre) OUT
+XX-03,174,Stationnement GRATUIT (1 et 2 janvier) OUT
+XX-04,116,Stationnement GRATUIT (LUNDI DE P�QUES 2019) OUT
+XX-05,174,Stationnement GRATUIT (F�TE PATRIOTES 2019) OUT
+XX-06,174,Stationnement GRATUIT (24 JUIN - ST-JEAN-B.) OUT
+XX-07,116,Stationnement GRATUIT (1 JUILLET - F�TE CANADA) OUT
+XX-08,174,Stationnement GRATUIT (F�TE DU TRAVAIL 2019) OUT
+XX-09,116,Stationnement GRATUIT (ACTION DE GR�CE 2019) OUT
+XX-11,1372,Stationnement GRATUIT tout temps - Temporaire - OUT
+XX-12,258,Stationnement GRATUIT (LACHINE- oct 2018 � mai 2019)  (aussi utilis� 3 ao�t au 16 sept + le 29 juillet et 15 juin 2018)
+XX-12,261,Stationnement GRATUIT (LACHINE- oct 2018 � mai 2019)  (aussi utilis� 3 ao�t au 16 sept + le 29 juillet et 15 juin 2018)
+ZV-01,291,STAT. INT. 7 h 30 - 9 h 30 MAR 01 avril au 14 nov
+ZV-02,292,STAT. INT. 7 h 30 - 9 h 30 JEU 01 avril au 14 nov
+ZV-07,312,STAT. INT. 8 h - 10 h LUN 01 avril au 14 nov
+ZV-08,1336,STAT. INT. 8 h - 10 h MAR 01 avril au 14 nov
+ZV-09,279,STAT. INT. 8 h - 10 h JEU 01 avril au 14 nov
+ZV-11,242,STAT. INT. 7 h 30 - 9 h 30 LUN 01 avril au 14 nov
+ZV-12,241,STAT. INT. 7 h 30 - 9 h 30 VEN 01 avril au 14 nov
+ZV-15,1337,STAT. INT. 9 h - 11 h LUN 01 avril au 14 nov
+ZV-16,1338,STAT. INT. 9 h - 11 h MAR 01 avril au 14 nov
+ZV-17,1339,STAT. INT. 9 h - 11 h JEU 01 avril au 14 nov
+ZV-18,1340,STAT. INT. 9 h - 11 h VEN 01 avril au 14 nov
+ZV-19,1341,STAT. INT. 10 h - 12 h LUN 01 avril au 14 nov
+ZV-20,225,STAT. INT. 10 h - 12 h MAR 01 avril au 14 nov
+ZX-01,334,STAT. INT. 13 h - 16 h LUN 01 avril au 01 d�c.
+ZX-02,335,STAT. INT. 9 h - 10 h DIM 01 avril au 01 d�c.
+ZX-03,1352,STAT. INT. 7 h - 8 h LUN et MER et SAM 01 avril au 01 d�c
+ZX-04,1353,STAT. INT. 7 h - 8 h MAR et JEU et DIM 01 avril au 01 d�c
+ZX-05,1354,STAT. INT. 7 h - 9 h LUN et MER et SAM 01 avril au 01 d�c.
+ZX-06,1356,STAt. INT. 8 h - 12 h LUN 01 avril au 01 d�c
+ZX-07,1357,STAT. INT. 12h30 - 13h30  JEU 01 avril au 01 d�c
+ZX-08,1358,STAT. INT. 12 h - 13 h LUN 01 avril au 01 d�c
+ZX-09,1337,STAT. INT. 9 h - 11 h LUN 01 avril au 01 d�c
+ZX-10,75,STAT. INT.6 h 30 - 7 h 30 LUN � VEN 01avril au 01 d�c.
+ZX-11,1362,STAT. INT.6 h 30 - 7 h 30 MAR 01avril au 01 d�c.
+ZX-12,147,STAT. INT.9 h - 12 h VEN 01 avril au 01 d�c
+ZX-13,1336,STAT. INT. 8 h - 10 h MAR 01 avril au 01 d�c
+ZX-14,1373,STAT. INT. 13 h - 14 h LUN 01 avril au 01 d�c
+ZX-15,1374,STAT. INT. 12 h 30 - 15 h 30 LUN 01 avril au 01 d�c
+ZX-16,1375,STAT. INT. 13 h - 16 h MER 01 avril au 01 d�c
+ZX-18,1377,STAT. INT. 12h - 13h MAR 01 avril au 01 d�c.
+ZX-19,1378,STAT. INT. 13h - 14h MER 01 avril au 01 d�c.
+ZX-20,1379,STAT. INT. 13h - 14h JEU 01 avril au 01 d�c.
+ZX-21,1380,STAT. INT. 12h - 14h MAR 01 avril au 01 d�c.
+ZX-22,1382,STAT. INT.6 h 30 - 7 h 30 MAR et JEU 01avril au 01 d�c.
+ZX-23,1384,STAT. INT. 13h - 14h MAR 01 avril au 01 d�c.
+ZX-24,1385,STAT. INT. 12h30 - 13h30 LUN 01 avril au 01 d�c.
+ZX-25,1386,STAT. INT. 12h30-13h30 MAR 01 avril au 01 d�c.
+ZX-26,1387,STAT. INT. 12h - 13h JEU 01 avril au 01 d�c.
+ZX-27,1388,STAT. INT. 9h - 10h MER 01 avril au 01 d�c.
+ZX-28,1390,STAT. INT. 20h - 21h LUN et JEU 01 avril au 01 d�c.
+ZX-29,1398,STAT. INT. 17h - 19h LUN et JEU 01 avril au 01 d�c.
+ZX-30,1406,STAT. INT. 14 h 30 - 15 h 30 MER 01 avril au 01 d�c
+ZX-31,1407,STAT. INT. 17 h - 18 h LUN 01 avril au 01 d�c
+ZX-32,1408,STAT. INT. 17 h 30 - 18 h 30 LUN etr JEU 01 avril au 01 d�c
+ZX-33,1409,STAT. INT. 14 h 30 - 15 h 30 VEN 01 avril au 01 d�c
+ZX-35,1411,STAT. INT. 14 h - 15 h LUN 01 avril au 01 d�c
+ZY-01,189,STAT. INT. 7 h 30 - 8 h 30 MER 01 avril au 01 d�c
+ZY-02,167,STAT. INT. 7 h - 8 h VEN 01 avril au 01 d�c
+ZY-03,190,STAT. INT.7 h 30 ou 8 h 30 - 9 h 30 MAR ET VEN 01 avril au 01 d�c
+ZY-09,213,STAT. INT. 19 h - 20 h LUN et MER 01 avril au 01 d�c
+ZY-10,214,STAT. INT. 19 h - 20 h MAR et JEU 01 avril au 01 d�c
+ZY-11,198,STAT. INT. 12 h - 13 h VEN  01 avril au 01 d�c
+ZY-14,89,STAT. INT.7 h 30 - 8 h 30 MAR ET VEN 01 avril au 01
+ZY-15,130,STAT. INT.6 h 30 - 7 h 30 7 jours sur 7 01 AVRIL au 01
+ZY-16,79,STAT. INT.7 h 30 - 8 h 30 7 jours sur 7 01 AVRIL au 01
+ZY-17,215,STAT. INT. 9 h 30 - 10 h 30 JEU 01 avril au 01 d�c
+ZY-18,220,STAT. INT. 9 h 30 - 10 h 30 MAR 01 avril au 01 d�c
+ZY-19,222,STAT. INT. 10 h - 11 h LUN et MER 01 avril au 01 d�c
+ZY-20,221,STAT. INT. 9 h - 10 h MAR et VEN 01 avril au 01 d�c
+ZY-21,223,STAT. INT. 13 h 30 - 14 h 30 MER 01 avril au 01 d�c
+ZY-22,77,STAT. INT.7 h 30 - 8 h 30 LUN � VEN 01 avril au 01 d�c.
+ZY-23,135,STAT. INT.6 h 30 - 7 h 30 SAM et DIM 01 avril au 01 d�c
+ZY-24,136,STAT. INT.7 h 30 - 8 h 30 SAM et DIM 01 avril au 01 d�c
+ZY-25,137,STAT. INT. 6 h 30 ou 7 h 30 - 8 h 30 MAR 01 avril au 01 d�c
+ZY-28,93,STAT. INT. 6 h 30 - 7 h 30 LUN et JEU 01 avril au 01 d�cembre
+ZY-29,94,STAT. INT. 6 h 30 - 7 h 30 MAR et VEN 01 avril au 01 d�cembre
+ZY-30,95,STAT. INT. 7 h 30 - 8 h 30 LUN 01 avril au 01 d�cembre
+ZY-32,100,STAT. INT. 7 h ou 7 h 30 - 9 h LUN � VEN 01 avril au 01 d�cembre
+ZY-33,91,STAT. INT. 7 h - 9 h LUN et JEU 01 avril au 01 d�c
+ZY-34,92,STAT. INT. 7 h - 9 h MAR et VEN 01 avril au 01 d�c
+ZY-35,216,STAT. INT. 10 h - 11 h LUN et JEU 01 avril au 01 d�cembre
+ZY-37,91,ARR�T INT. 8 h - 9 h LUN ET JEU 01 avril au 30 nov
+ZY-38,134,ARR�T INT. 8 h - 9 h MER ET VEN 01 avril au 30 nov
+ZY-38,163,ARR�T INT. 8 h - 9 h MER ET VEN 01 avril au 30 nov
+ZY-39,134,ARR�T INT. 8 h - 9 h LUN ET MER 01 avril au 30 nov
+ZY-39,161,ARR�T INT. 8 h - 9 h LUN ET MER 01 avril au 30 nov
+ZY-40,105,ARR�T INT. 8 h - 9 h MAR ET JEU 01 avril au 30 nov
+ZY-40,126,ARR�T INT. 8 h - 9 h MAR ET JEU 01 avril au 30 nov
+ZY-41,132,ARR�T INT. 7 h - 8 h LUN  01 avril au 30 nov
+ZY-42,226,ARR�T INT. 8 h - 10 h MER 01 avril au 30 nov
+ZY-43,133,ARR�T INT. 7 h - 8 h JEU 01 avril au 30 nov
+ZY-44,173,ARR�T INT. 7 h - 8 h MAR ET JEU 01 avril au 30 nov
+ZY-45,132,ARR�T INT. 7 h - 8 h LUN ET MER 01 avril au 30 nov
+ZY-45,160,ARR�T INT. 7 h - 8 h LUN ET MER 01 avril au 30 nov
+ZY-46,170,ARR�T INT. 7 h - 7 h 30 LUN 01 avril au 30 nov
+ZY-47,225,ARR�T INT. 10 h - 12 h MAR 01 avril au 30 nov
+ZY-48,226,STAT. INT. 9 h - 10 h MER 01 avril au 01 d�c
+ZY-49,96,STAT. INT. 7 h 30 - 8 h 30 LUN et MER et VEN 01 avril au 01 d�c
+ZY-50,229,STAT. INT. 9 h 30 - 10 h 30 MAR et VEN 01 avril au 01 d�c
+ZY-51,228,STAT. INT. 9 h 30 - 10 h 30 LUN ET JEU 01 avril au 01 d�c
+ZY-53,231,STAT. INT. 9 h 30 - 10 h 30 MER 01 avril au 01 d�c
+ZY-54,134,STAT. INT. 8 h - 9 h MER et VEN 01 avril au 01 d�c
+ZY-54,163,STAT. INT. 8 h - 9 h MER et VEN 01 avril au 01 d�c
+ZY-55,238,STAT. INT. 10 h - 11 h MER 01 avril au 01 d�c
+ZY-56,239,STAT. INT. 10 h - 11 h VEN 01 avril au 01 d�c
+ZY-58,242,STAT. INT.7 h 30 ou 8 h 30 - 9 h 30 LUN 01 avril au 01 d�c
+ZY-59,243,STAT. INT.8 h 30 - 9 h 30 MER 01 avril au 01 d�c
+ZY-62,247,STAT. INT.12 h 30 - 13 h 30 VEN 01 avril au 01 d�c
+ZY-64,262,STAT. INT. 10h30 - 11h30 MER 01avril au 01 d�c
+ZY-65,263,STAT. INT. 10h30 - 11h30 VEN 01avril au 01 d�c
+ZY-66,231,STAT. INT. 9h30 - 10h30 MER 01avril au 01 d�c
+ZY-67,264,STAT. INT. 9h30 - 10h30 VEN 01avril au 01 d�c
+ZY-68,265,STAT. INT. 9h - 10h VEN 01avril au 01 d�c
+ZY-69,266,STAT. INT. 13h - 14h VEN 01avril au 01 d�c
+ZY-70,267,STAT. INT. 12h30 - 13h30  MER 01 avril au 01 d�c
+ZY-71,268,STAT. INT. 13h30 - 14h30  VEN 01 avril au 01 d�c
+ZY-72,269,STAT. INT. 14h - 15h VEN 01 avril au 01 d�c
+ZY-73,270,STAT. INT. 10h - 11h JEU 01 avril au 01 d�c
+ZY-74,271,STAT. INT. 12h - 13h MER 01 avril au 01 d�c
+ZY-76,134,STAT. INT. 7 h ou 7 h 30 - 9 h MER 01 avril au 01 d�c
+ZY-78,279,STAT. INT. 9h - 10h JEU 01 avril au 01 d�c
+ZY-81,282,STAT. INT. 18h30 - 19h30 LUN 01 avril au 01 d�c
+ZY-82,281,STAT. INT. 19h - 20h MAR 01 avril au 01 d�c
+ZY-83,289,STAT. INT. 17h - 18h30  LUN ET JEU 01 avril au 01 d�c
+ZY-84,291,STAT. INT. 7 h ou 8 h 30 - 9 h 30 MAR 01avril au 01 d�c
+ZY-85,292,STAT. INT. 7 h ou 8 h 30 - 9 h 30 JEU 01avril au 01 d�c
+ZY-87,298,STAt. INT. 8 h - 12 h JEU 01 avril au 01 d�c
+ZY-88,301,STAT. INT. 10h - 11h MAR 01 avril au 01 d�c
+ZY-89,302,STAT. INT. 7 h 30 - 8 h 30 VEN 01 avril au 01 d�c
+ZY-90,303,STAT. INT. 7 h - 8 h MER et VEN 01 avril au 01 d�c
+ZY-91,310,STAT. INT. 9 h 30 - 10 h30 LUN 01 avril au 01 d�c
+ZY-92,312,STAT. INT. 8h ou 9 h - 10 h LUN 01 avril au 01 d�c
+ZY-93,313,STAT. INT. 8 h - 9 h DIM 01 avril au 01 d�c
+ZY-94,314,STAT. INT. 8 h - 9 h SAM 01 avril au 01 d�c
+ZY-95,160,ARR�t INT. 7 h - 8 h MER 01 avril au 30 nov
+ZY-96,318,STAT. INT. 16 h 30 - 17 h 30 LUN au VEN 01 avril au 01 d�c
+ZY-97,331,STAT. INT. 9 h 30 - 10 h30 LUN � VEN 01 avril au 01 d�c
+ZY-98,330,STAT. INT. 12 h - 13 h LUN � VEN 01 avril au 01 d�c
+ZY-99,333,STAT. INT. 9 h - 11 h MAR et JEU 01 avril au 01 d�c
+ZZ-24,101,STAT. INT. 7 h - 9 h - 1er mai au 31 oct.
+ZZ-51,76,STAT. INT.7 h - 8 h LUN � VEN 01 avril au 01 d�c
+ZZ-52,75,STAT. INT.6 h 30 - 7 h 30 LUN � VEN 01 avril au 01 dec
+ZZ-53,46,STAT. INT.  8 h - 9 h LUN � VEN 01 avril au 01 d�c
+ZZ-54,91,STAT. INT. 8 h - 9 h LUN et JEU 01 avril au 01 d�c
+ZZ-55,92,STAT. INT. 8 h - 9 h MAR et VEN 01 avril au 01 d�c
+ZZ-56,38,STAT. INT. 8 h - 9 h30 LUN � VEN 01 avril au 01 d�c
+ZZ-57,139,STAT. INT. 7 h - 8 h LUN et MER 01 avril au 01 d�c
+ZZ-60,88,STAT. INT. 7 h - 8 h MAR et VEN 01 avril au 01 d�c
+ZZ-65,160,STAT. INT. 7 h - 8 h MER 01 avril au 01 d�c
+ZZ-66,132,STAT. INT. 7 h - 8 h LUN 01 avril au 01 d�c
+ZZ-67,161,STAT. INT. 7 h ou 8 h - 9 h LUN 01 avril au 01 d�c
+ZZ-68,134,STAT. INT. 8 h - 9 h MER 01 avril au 01 d�c
+ZZ-69,90,STAT. INT.7 h 30 - 8 h 30 LUN ET JEU 01 avril au 01 d�c
+ZZ-71,87,STAT. INT. 7 h - 8 h LUN ET JEU 01 avril au 01 d�c
+ZZ-72,163,STAT. INT. 8 h - 9 h VEN 01 avril au 01 d�c
+ZZ-73,105,STAT. INT. 7 h ou 7 h 30 ou 8 h - 9 h MAR 01 avril au 01 d�c
+ZZ-74,126,STAT. INT. 7 h ou 7 h 30 ou 8 h - 9 h JEU 01 avril au 01 d�c
+ZZ-75,133,STAT. INT. 7 h - 8 h JEU 01 avril au 01 d�c
+ZZ-76,164,STAT. INT. 7 h - 8 h MAR 01 avril au 01 d�c
+ZZ-86,139,ARR�T INT. 7 h - 8 h LUN et MER 01 avril au 15 nov
+ZZ-89,173,STAT. INT. 7 h - 8 h MAR ET JEU 01 avril au 01 d�c
+ZZ-91,105,STAT. INT. 7 h ou 7h30 - 9 h MAR 01 avril au 01 d�c
+ZZ-92,80,ARRET INT. 6 h - 9 h et 15 h - 18 h 30 LUN � VEN
+ZZ-92,179,ARRET INT. 6 h - 9 h et 15 h - 18 h 30 LUN � VEN
+ZZ-93,168,STAT. INT. 8 h - 9 h LUN ET MER 01 avril au 01 d�c
+ZZ-94,183,STAT. INT.8 h 30 - 9 h 30 LUN ET JEU 01 avril au 01 d�c
+ZZ-95,118,STAT. INT. 0 h - 3 h Except� d�barcad�re (7/7 jours)
+ZZ-96,168,STAT. INT. 8 h - 9 h LUN et MER 01 avril au 01 d�c
+ZZ-97,169,STAT. INT. 7 h ou 8 h - 9 h MAR et JEU 01 avril au 01 d�c
+ZZ-98,168,STAT. INT. 7 h - 9 h LUN et MER 01 avril au 01 d�c
+ZZ-99,169,STAT. INT. 7 h - 9 h MAR et JEU 01 avril au 01 d�c
