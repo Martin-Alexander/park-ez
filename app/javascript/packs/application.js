@@ -2,6 +2,17 @@ import 'bootstrap';
 import 'mapbox-gl/dist/mapbox-gl.css'
 import mapboxgl from 'mapbox-gl';
 
+// =============================================================================
+
+const micBtn = document.querySelector("#mic-btn");
+const infoCard = document.querySelector(".info-card");
+
+micBtn.addEventListener("click", () => {
+  infoCard.classList.toggle("show");
+});
+
+// =============================================================================
+
 // Helper method for making AJAX request to a Rails controller
 export const railsFetch = (input, init = {}) => {
   const deafultHeaders = {
@@ -41,15 +52,18 @@ const mapElement = document.getElementById('map');
 // Set up to form to make an AJAX request to places#index
 const form = document.querySelector("form");
 
+
 form.addEventListener("submit", (event) => {
   event.preventDefault();
+
+  infoCard.classList.remove("show");
 
   // building the query string
   const params = {}
 
-  const address = form.querySelector("input[name='address[]']").value;
-  const walking = form.querySelector("input[name='walking[]']").value;
-  const hours = form.querySelector("input[name='hours[]']").value;
+  const address = form.querySelector("input[name='address']").value;
+  const walking = form.querySelector("input[name='walking']").value;
+  const hours = form.querySelector("input[name='hours']").value;
 
   if (address) { params.address = address }
   if (walking) { params.walking = walking }
@@ -60,8 +74,6 @@ form.addEventListener("submit", (event) => {
   }
 
   const queryString = Object.keys(params).map(key => key + '=' + params[key]).join('&');
-
-
 
   // This is making an AJAX (fetch) request
   railsFetch(`${form.action}?${queryString}`, { method: form.method })
@@ -106,12 +118,3 @@ const createCurrentLocationMarker = () => {
 
   return new mapboxgl.Marker(markerDiv)
 }
-
-// =============================================================================
-
-const micBtn = document.querySelector("#mic-btn");
-const infoCard = document.querySelector(".info-card");
-
-micBtn.addEventListener("click", () => {
-  infoCard.classList.toggle("show");
-});

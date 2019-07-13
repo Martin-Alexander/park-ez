@@ -15,6 +15,25 @@
 input {
   color: #D5D5D5;
 }
+
+input[type="submit" i] {
+  -webkit-appearance: push-button;
+  user-select: none;
+  white-space: pre;
+  align-items: flex-start;
+  text-align: center;
+  cursor: default;
+  color: buttontext;
+  background-color: buttonface;
+  box-sizing: border-box;
+  padding: 0px;
+  border-width: 0px;
+  border-style: outset;
+  border-color: buttonface;
+  border-image: initial;
+  background-color: initial;
+}
+
 .info-card {
   width: 97%;
   background-color: #FFFFFF;
