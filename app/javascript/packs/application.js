@@ -32,7 +32,11 @@ export const railsFetch = (input, init = {}) => {
 let userCoords;
 
 navigator.geolocation.getCurrentPosition((position) => {
-  userCoords = position.coords;
+  userCoords = {
+    latitude: 45.5080532,
+    longitude: -73.5281045
+  }
+
   createCurrentLocationMarker()
     .setLngLat({ lat: userCoords.latitude, lng: userCoords.longitude })
     .addTo(map);
