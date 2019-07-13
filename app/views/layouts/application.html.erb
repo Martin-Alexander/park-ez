@@ -13,7 +13,18 @@
   </head>
 
   <body>
-    <%= yield %>
+    <div class="header">
+      <ul>
+        <i class="fas fa-bars"></i><span class="title"> ParkEZ </span>
+      </ul>
     <%= javascript_pack_tag "application" %>
+    </div>
+    <div class="map-area">
+    <%= yield %>
+      Test2
+    </div>
+    <div class="footer">
+      Test3
+    </div>
   </body>
 </html>
