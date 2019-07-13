@@ -9,7 +9,7 @@ class PlacesController < ApplicationController
       longitude: params[:user_longitude].to_f
     }
 
-    first_result = Geocoder.search(address)[0]
+    first_result = Geocoder.search(address + ", montreal")[0]
 
     if first_result
       address_coordinates = { latitude: first_result.data["lat"].to_f, longitude: first_result.data["lon"].to_f }
