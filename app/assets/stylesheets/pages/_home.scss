@@ -3,67 +3,90 @@
 
 .header {
   background-color: white;
-  position: fixed;
-  top: 0%;
-  width: 100%
-  };
+  padding-top: 1px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  height: 47px;
+}
 
+.header ul {
+  text-align: center;
+  width: 100%;
+  padding-inline-start: 0px;
+  margin: 0px;
+}
+
+.header .fa-bars {
+  position: absolute;
+  left: 20px;
+}
 .map-area {
   background-color: white;
+  height: calc(100vh - (67px + 3px + 47px));
+  overflow: hidden;
 }
 
 .footer {
   background-image: linear-gradient(to right, #FF7E35, #FF3465);
-  position: fixed;
-  bottom: 0%;
-  width: 100%
+  height: 67px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 };
 
+#map {
+  height: calc(100vh - (67px + 3px + 47px));
+}
+
+#mic-btn {
+  width: 52px;
+  height: 52px;
+  font-size: 23px;
+  text-align: center;
+  // margin-left: 50%;
+  color: white;
+  border: 2px solid #FFE9E9;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
 .header .fas {
-font-size: 5vw;
-background: -webkit-linear-gradient(left, #FF7E35, #FF3465);
+  font-size: 24px;
+  background: -webkit-linear-gradient(left, #FF7E35, #FF3465);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 .title {
-font-size: 5vw;
-font-family: 'Roboto', sans-serif;
-align: center;
-margin-left: 35%;
-margin-right: auto;
-background: -webkit-linear-gradient(left, #FF7E35, #FF3465);
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+  background: -webkit-linear-gradient(left, #FF7E35, #FF3465);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 .footer .fas{
-  font-size: 2vw;
-  text-align: center;
-  margin-left: 50%;
-  color: white;
-  border: 0.25vw solid #FFE9E9;
-  border-radius: 50%;
-  padding: 1vw;
+
 
 }
 
 .border-gradient {
-    display: block;
-    height: 1%px;
-    width: 100%;
-    border: solid 1px #CCC;
-    border-bottom: none;
-    position: relative;
+  display: block;
+  height: 3px;
+  width: 100%;
+  border-bottom: none;
+  position: relative;
 }
 .border-gradient:after {
-    content:"";
-    background: -webkit-linear-gradient(left, #FF7E35, #FF3465);
-    display: block;
-    height: 5px;
-    width: 100%;
-    position: absolute;
-    top: 0;
+  content: "";
+  background: -webkit-linear-gradient(left, #FF7E35, #FF3465);
+  display: block;
+  height: 5px;
+  width: 100%;
 }
 
 

@@ -25,6 +25,25 @@
 input {
   color: #D5D5D5;
 }
+
+input[type="submit" i] {
+  -webkit-appearance: push-button;
+  user-select: none;
+  white-space: pre;
+  align-items: flex-start;
+  text-align: center;
+  cursor: default;
+  color: buttontext;
+  background-color: buttonface;
+  box-sizing: border-box;
+  padding: 0px;
+  border-width: 0px;
+  border-style: outset;
+  border-color: buttonface;
+  border-image: initial;
+  background-color: initial;
+}
+
 .info-card {
   width: 97%;
   background-color: #FFFFFF;
@@ -34,6 +53,15 @@ input {
   margin: 0 auto;
   box-shadow: 0px -2px 6px rgba(0, 0, 0, 0.15);
   border-radius: 10px 10px 0px 0px;
+  position: relative;
+  z-index: 2;
+  transition: bottom 0.5s ease;
+  bottom: 0px;
+  flex-direction: column;
+}
+
+.info-card.show {
+  bottom: 260px;
 }
 
 .sticker-box {
@@ -68,7 +96,7 @@ form {
   width: 30px;
 }
 
-.fas, .far {
+form .fas, form .far {
   background: -webkit-gradient(linear, left top, left bottom, from(#FF7E35), to(#FF3465));
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
