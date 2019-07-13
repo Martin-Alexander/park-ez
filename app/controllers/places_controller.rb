@@ -19,4 +19,6 @@ class PlacesController < ApplicationController
 
     render json: { places: place_coordinates, destination: address_coordinates }
   end
+
+  
 end

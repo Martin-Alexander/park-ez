@@ -14,7 +14,6 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'webpacker'
 
-<<<<<<< HEAD
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
@@ -24,11 +23,9 @@ gem 'geocoder'
 # gem 'capistrano-rails', group: :development
 
 # Reduces boot times through caching; required in config/boot.rb
-=======
 gem 'autoprefixer-rails'
 gem 'font-awesome-sass', '~> 5.6.1'
 gem 'simple_form'
->>>>>>> master
 gem 'bootsnap', '>= 1.1.0', require: false
 gem 'pry-byebug'
 
