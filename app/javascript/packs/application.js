@@ -130,8 +130,8 @@ recognition.start();
 
 const voiceInputs = {
   address: document.querySelector("#address"),
-  duration: document.querySelector("#distance"),
-  distance: document.querySelector("#duration")
+  duration: document.querySelector("#duration"),
+  distance: document.querySelector("#distance")
 }
 
 let state = null;
@@ -141,14 +141,26 @@ recognition.onresult = function(event) {
 
   if (state === null) {
     if (latestResult.match(/address/)) {
+      voiceInputs.address.parentNode.querySelector(".fa-microphone").style["-webkit-text-fill-color"] = "#7ae090"
+      voiceInputs.duration.parentNode.querySelector(".fa-microphone").style["-webkit-text-fill-color"] = "#c9c9c9"
+      voiceInputs.distance.parentNode.querySelector(".fa-microphone").style["-webkit-text-fill-color"] = "#c9c9c9"
       state = "address"
     } else if (latestResult.match(/duration/)) {
+      voiceInputs.address.parentNode.querySelector(".fa-microphone").style["-webkit-text-fill-color"] = "#c9c9c9"
+      voiceInputs.duration.parentNode.querySelector(".fa-microphone").style["-webkit-text-fill-color"] = "#7ae090"
+      voiceInputs.distance.parentNode.querySelector(".fa-microphone").style["-webkit-text-fill-color"] = "#c9c9c9"
       state = "duration"
     } else if (latestResult.match(/distance/)) {
+      voiceInputs.address.parentNode.querySelector(".fa-microphone").style["-webkit-text-fill-color"] = "#c9c9c9"
+      voiceInputs.duration.parentNode.querySelector(".fa-microphone").style["-webkit-text-fill-color"] = "#c9c9c9"
+      voiceInputs.distance.parentNode.querySelector(".fa-microphone").style["-webkit-text-fill-color"] = "#7ae090"
       state = "distance"
     }
   } else {
     voiceInputs[state].value = latestResult;
+    voiceInputs.address.parentNode.querySelector(".fa-microphone").style["-webkit-text-fill-color"] = "#c9c9c9"
+    voiceInputs.duration.parentNode.querySelector(".fa-microphone").style["-webkit-text-fill-color"] = "#c9c9c9"
+    voiceInputs.distance.parentNode.querySelector(".fa-microphone").style["-webkit-text-fill-color"] = "#c9c9c9"
     state = null;
   }
 }

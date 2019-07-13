@@ -69,6 +69,15 @@ input[type="submit" i] {
   margin: 15px;
   display: flex;
   justify-content: space-between;
+  position: relative;
+
+  .fa-microphone {
+    position: absolute;
+    right: 8px;
+    top: 9px;
+
+    -webkit-text-fill-color: #c9c9c9;
+  }
 }
 
 form {
