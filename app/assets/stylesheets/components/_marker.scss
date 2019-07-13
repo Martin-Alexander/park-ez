@@ -1,5 +1,5 @@
 .destination-marker {
-  background-image: asset-url("wagon_dot.svg");
+  background-image: asset-url('circle-location.svg');
   background-size: contain;
   background-repeat: no-repeat;
   width: 32px;
@@ -9,6 +9,15 @@
 
 .current-location-marker {
   background-image: asset-url('current-location-marker-icon.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+
+.parking-icon {
+  background-image: asset-url('parking_icon.svg');
   background-size: contain;
   background-repeat: no-repeat;
   width: 30px;

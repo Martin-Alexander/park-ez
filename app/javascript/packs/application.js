@@ -95,7 +95,7 @@ form.addEventListener("submit", (event) => {
       data.places.forEach((place) => {
         bounds.extend([ place.longitude, place.latitude ])
 
-        createMarker()
+        createParkingMarker()
           .setLngLat([ place.longitude, place.latitude ])
           .addTo(map);
       });
@@ -130,6 +130,13 @@ const createDestinationMarker = () => {
 const createCurrentLocationMarker = () => {
   const markerDiv = document.createElement('div');
   markerDiv.className = 'current-location-marker';
+
+  return new mapboxgl.Marker(markerDiv)
+}
+
+const createParkingMarker = () => {
+  const markerDiv = document.createElement('div');
+  markerDiv.className = 'parking-icon';
 
   return new mapboxgl.Marker(markerDiv)
 }
