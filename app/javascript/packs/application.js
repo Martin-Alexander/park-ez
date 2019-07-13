@@ -85,7 +85,7 @@ form.addEventListener("submit", (event) => {
           .addTo(map);
       });
 
-      map.fitBounds(bounds, { padding: 70, maxZoom: 16, linear: true });
+      map.fitBounds(bounds, { padding: 70, maxZoom: 18, linear: true });
     });
 })
 
