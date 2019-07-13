@@ -3,6 +3,9 @@
 
 .header {
   background-image: linear-gradient(to right, #FF7E35, #FF3465);
+  position: fixed;
+  top: 0%;
+  width: 100%
   };
 
 .map-area {
@@ -11,6 +14,9 @@
 
 .footer {
   background-image: linear-gradient(to right, #FF7E35, #FF3465);
+  position: fixed;
+  bottom: 0%;
+  width: 100%
 };
 
 .header .fas {
@@ -20,7 +26,13 @@ font-size: 5vw;
 .title {
 font-size: 5vw;
 align: center;
-margin-left: 30%;
+margin-left: 35%;
 margin-right: auto;
 
+}
+
+.footer .fas{
+  font-size: 3vw;
+  text-align: center;
+  margin-left: 50%;
 }
