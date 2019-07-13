@@ -22,6 +22,7 @@ input {
   display: flex;
   justify-content: center;
   margin: 0 auto;
+  display: none;
 }
 
 .sticker-box {
@@ -56,7 +57,7 @@ form {
   width: 30px;
 }
 
-.fas, .far {
+form .fas, form .far {
   background: -webkit-gradient(linear, left top, left bottom, from(#FF7E35), to(#FF3465));
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;

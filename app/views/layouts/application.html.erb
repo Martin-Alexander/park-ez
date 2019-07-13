@@ -18,18 +18,18 @@
   <body>
     <div class="header">
       <ul>
-        <i class="fas fa-bars"></i><span class="title"> ParkEZ </span>
+        <i class="fas fa-bars"></i><span class="title"> PARK EZ </span>
       </ul>
-
-      <div class="border-gradient"></div>
     </div>
+    <div class="border-gradient"></div>
 
     <div class="map-area">
       <%= yield %>
-      Test2
     </div>
     <div class="footer">
-      <i class="fas fa-microphone"></i>
+      <div id="mic-btn">
+        <i class="fas fa-microphone"></i>
+      </div>
     </div>
 
     <%= javascript_pack_tag "application" %>
