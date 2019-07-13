@@ -32,7 +32,7 @@ input[type="submit" i] {
   align-items: flex-start;
   text-align: center;
   cursor: default;
-  color: buttontext;
+  color: red;
   background-color: buttonface;
   box-sizing: border-box;
   padding: 0px;
@@ -41,6 +41,7 @@ input[type="submit" i] {
   border-color: buttonface;
   border-image: initial;
   background-color: initial;
+  text-transform: uppercase;
 }
 
 .info-card {
@@ -59,10 +60,11 @@ input[type="submit" i] {
   flex-direction: column;
   box-shadow: 0px -2px 6px rgba(0, 0, 0, 0.15);
   border-radius: 10px 10px 0px 0px;
+  padding-bottom: 30px;
 }
 
 .info-card.show {
-  bottom: 260px;
+  bottom: 295px;
 }
 
 .sticker-box {
@@ -112,31 +114,31 @@ body {
 
 .btn {
 	background-image: linear-gradient(to right, #FF7E35,#FF3465);
-	border-radius: 45px;
+	border-radius: 22px;
   box-sizing: border-box;
 	color: linear-gradient(to right, #FF7E35,#FF3465);
 	display: block;
-	height: 40px;
 	letter-spacing: 1px;
 	margin: 0 auto;
 	padding: 1px;
 	position: relative;
   text-decoration: none;
 	text-transform: uppercase;
-	width: 150px;
+	width: 139px;
+  height: 44px;
   z-index: 2;
+  padding: 0.6px;
+  font-size: 13px;
+  margin-top: 30px;
 }
 
 .btn span {
 	align-items: center;
 	background: #FFFFFF;
-	border-radius: 50px;
+	border-radius: 22px;
 	display: flex;
 	justify-content: center;
 	height: 100%;
 	width: 100%;
 }
 
-.button-text {
-  color: red;
-}
