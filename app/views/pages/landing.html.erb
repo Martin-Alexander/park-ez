@@ -5,10 +5,13 @@
   data-mapbox-api-key="<%= ENV['MAPBOX_API_KEY'] %>"
 >
 
-  <%= form_tag places_url, method: :get do %>
-    <%= text_field :address, "", placeholder: "address" %>
-    <%= text_field :hours, "", placeholder: "hours" %>
-    <%= text_field :walking, "", placeholder: "walking" %>
-    <%= submit_tag %>
-  <% end %>
+  <div class="info-card">
+    <div id="top-detail"></div>
+    <%= form_tag places_url, method: :get do %>
+      <div class="sticker-box"><i class="fas fa-map-marker-alt sticker"></i><input type="text" name="address" placeholder="where are you going?" class="form-box"></div>
+      <div class="sticker-box"><i class="fas fa-clock sticker"></i><input type="text" name="hours" placeholder="how long are you staying?" class="form-box"></div>
+      <div class="sticker-box"><i class="fas fa-walking sticker"></i><input type="text" name="walking" placeholder="minimum walk distance" class="form-box"></div>
+      <div><a class="btn" href="#"><span class="button-text">find parking</span></a></div>
+    <% end %>
+  </div>
 </div>

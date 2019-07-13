@@ -11,3 +11,89 @@
 // Your CSS partials
 @import "components/index";
 @import "pages/index";
+
+input {
+  color: #D5D5D5;
+}
+.info-card {
+  width: 97%;
+  background-color: #FFFFFF;
+  padding: 13px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.sticker-box {
+  margin: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+form {
+  width: 100%;
+}
+
+::placeholder {
+  color: #D5D5D5;
+}
+
+.form-box {
+  background-color: #FAFAFA;
+  border: 0px;
+  border-bottom: 1px solid;
+  border-image: linear-gradient(to right, #FF7E35,#FF3465);
+  border-image-slice: 1;
+  margin: auto;
+  text-decoration: none;
+  width: 100%;
+  height: 35px;
+  text-indent: 8px;
+}
+
+.sticker {
+  padding-top: 8px;
+  width: 30px;
+}
+
+.fas, .far {
+  background: -webkit-gradient(linear, left top, left bottom, from(#FF7E35), to(#FF3465));
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+body {
+  background: #e7e8e9;
+}
+
+.btn {
+	background-image: linear-gradient(to right, #FF7E35,#FF3465);
+	border-radius: 40px;
+  box-sizing: border-box;
+	color: linear-gradient(to right, #FF7E35,#FF3465);
+	display: block;
+	height: 40px;
+	letter-spacing: 1px;
+	margin: 0 auto;
+	padding: 1px;
+	position: relative;
+  text-decoration: none;
+	text-transform: uppercase;
+	width: 150px;
+  z-index: 2;
+}
+
+.btn span {
+	align-items: center;
+	background: #FFFFFF;
+	border-radius: 40px;
+	display: flex;
+	justify-content: center;
+	height: 100%;
+	transition: background .5s ease;
+	width: 100%;
+}
+
+.button-text {
+  color: red;
+}
