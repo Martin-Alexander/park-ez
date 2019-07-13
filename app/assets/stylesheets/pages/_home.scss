@@ -23,6 +23,8 @@
 }
 .map-area {
   background-color: white;
+  height: calc(100vh - (67px + 3px + 47px));
+  overflow: hidden;
 }
 
 .footer {
