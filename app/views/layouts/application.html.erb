@@ -11,6 +11,7 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= stylesheet_pack_tag 'application' %>
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
   </head>
 
@@ -19,15 +20,18 @@
       <ul>
         <i class="fas fa-bars"></i><span class="title"> ParkEZ </span>
       </ul>
+
       <div class="border-gradient"></div>
-    <%= javascript_pack_tag "application" %>
     </div>
+
     <div class="map-area">
-    <%= yield %>
+      <%= yield %>
       Test2
     </div>
     <div class="footer">
-        <i class="fas fa-microphone"></i>
+      <i class="fas fa-microphone"></i>
     </div>
+
+    <%= javascript_pack_tag "application" %>
   </body>
 </html>
