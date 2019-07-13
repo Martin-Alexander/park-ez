@@ -9,12 +9,25 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= stylesheet_pack_tag 'application' %>
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
   </head>
 
   <body>
-    <%= yield %>
-    <%= stylesheet_pack_tag 'application' %>
+    <div class="header">
+      <ul>
+        <i class="fas fa-bars"></i><span class="title"> ParkEZ </span>
+      </ul>
+    </div>
+
+    <div class="map-area">
+      <%= yield %>
+      Test2
+    </div>
+    <div class="footer">
+      <i class="fas fa-microphone"></i>
+    </div>
+
     <%= javascript_pack_tag "application" %>
   </body>
 </html>
