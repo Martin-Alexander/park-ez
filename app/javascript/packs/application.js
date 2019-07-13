@@ -44,8 +44,22 @@ const form = document.querySelector("form");
 form.addEventListener("submit", (event) => {
   event.preventDefault();
 
+  const params = {}
+
+  const address = form.querySelector("input[name='address[]']").value;
+  const walking = form.querySelector("input[name='walking[]']").value;
+  const hours = form.querySelector("input[name='hours[]']").value;
+
+  if (address) { params.address = address }
+  if (walking) { params.walking = walking }
+  if (hours) { params.hours = hours }
+
+  const queryString = Object.keys(params).map(key => key + '=' + params[key]).join('&');
+
+  console.log(`${form.action}?${queryString}`);
+
   // This is making an AJAX (fetch) request
-  railsFetch(form.action, { method: form.method })
+  railsFetch(`${form.action}?${queryString}`, { method: form.method })
     .then(response => response.json())
     .then((data) => {
       const bounds = new mapboxgl.LngLatBounds();
