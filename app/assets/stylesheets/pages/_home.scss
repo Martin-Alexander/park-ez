@@ -2,7 +2,7 @@
 // Specific CSS for your home-page
 
 .header {
-  background-image: linear-gradient(to right, #FF7E35, #FF3465);
+  background-color: white;
   position: fixed;
   top: 0%;
   width: 100%
@@ -21,18 +21,42 @@
 
 .header .fas {
 font-size: 5vw;
+background: -webkit-linear-gradient(left, #FF7E35, #FF3465);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .title {
 font-size: 5vw;
+font-family: 'Roboto', sans-serif;
 align: center;
 margin-left: 35%;
 margin-right: auto;
-
+background: -webkit-linear-gradient(left, #FF7E35, #FF3465);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .footer .fas{
   font-size: 3vw;
   text-align: center;
   margin-left: 50%;
+}
+
+.border-gradient {
+    display: block;
+    height: 1%px;
+    width: 100%;
+    border: solid 1px #CCC;
+    border-bottom: none;
+    position: relative;
+}
+.border-gradient:after {
+    content:"";
+    background: -webkit-linear-gradient(left, #FF7E35, #FF3465);
+    display: block;
+    height: 5px;
+    width: 100%;
+    position: absolute;
+    top: 0;
 }
