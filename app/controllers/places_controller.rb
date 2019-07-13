@@ -4,12 +4,16 @@ class PlacesController < ApplicationController
     walking_radius = params[:walking]
     hours = params[:hours]
 
-    first_result = Geocoder.search(address)[0]
+    user_coords = {
+      latitude: params[:user_latitude].to_f,
+      longitude: params[:user_longitude].to_f
+    }
+
+    first_result = Geocoder.search(address + ", montreal")[0]
 
     if first_result
-      address_coordinates = { latitude: first_result.data["lat"].to_i, longitude: first_result.data["lng"].to_i }
+      address_coordinates = { latitude: first_result.data["lat"].to_f, longitude: first_result.data["lon"].to_f }
     else
-      # binding.pry
       address_coordinates = { latitude: 45.4900421, longitude: -73.5815461 } # backup
     end
 
