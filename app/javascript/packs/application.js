@@ -118,3 +118,26 @@ const createCurrentLocationMarker = () => {
 
   return new mapboxgl.Marker(markerDiv)
 }
+
+// Speech recognition
+
+
+const recognition = new webkitSpeechRecognition();
+recognition.continuous = true;
+recognition.lang = 'en-US';
+recognition.maxAlternatives = 1;
+recognition.start();
+
+recognition.onresult = function(event) {
+  console.log(event.results);
+}
+
+// "address"
+
+// <address>
+
+// "hours"
+
+// <hours>
+
+// "maximum distance"
