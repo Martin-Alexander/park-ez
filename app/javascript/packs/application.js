@@ -143,6 +143,8 @@ recognition.lang = 'en-US';
 recognition.maxAlternatives = 1;
 recognition.start();
 
+const submitButton = document.querySelector("#find-parking");
+
 const voiceInputs = {
   address: document.querySelector("#address"),
   duration: document.querySelector("#duration"),
@@ -170,6 +172,8 @@ recognition.onresult = function(event) {
       voiceInputs.duration.parentNode.querySelector(".fa-microphone").style["-webkit-text-fill-color"] = "#c9c9c9"
       voiceInputs.distance.parentNode.querySelector(".fa-microphone").style["-webkit-text-fill-color"] = "#7ae090"
       state = "distance"
+    } else if (latestResult.match(/^find parking$/)) {
+      submitButton.click();
     }
   } else {
     voiceInputs[state].value = latestResult;

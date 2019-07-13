@@ -15,6 +15,7 @@ class PlacesController < ApplicationController
       address_coordinates = { latitude: destination.data["lat"].to_f, longitude: destination.data["lon"].to_f }
     else
       address_coordinates = { latitude: 45.4900421, longitude: -73.5815461 } # backup
+      place_coordinates = Place.limit(10).map { |place| place.serializable_hash(only: [:longitude, :latitude]) }
     end
 
     places = Place
@@ -23,7 +24,13 @@ class PlacesController < ApplicationController
       .where("periodes.heure_debut < ? AND periodes.heire_fin > ?", Time.now, Time.now + duration.hour)
       .uniq
 
-    place_coordinates = places.map { |place| place.serializable_hash(only: [:longitude, :latitude]) }
+    if places.length > 0
+      place_coordinates = places.map { |place| place.serializable_hash(only: [:longitude, :latitude]) }
+    else
+      address_coordinates = { latitude: 45.4900421, longitude: -73.5815461 } # backup
+      place_coordinates = Place.limit(10).map { |place| place.serializable_hash(only: [:longitude, :latitude]) }
+    end
+
 
     render json: { places: place_coordinates, destination: address_coordinates }
   end
