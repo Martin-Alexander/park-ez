@@ -12,6 +12,16 @@
 @import "components/index";
 @import "pages/index";
 
+
+#top-detail {
+  width: 68px;
+  height: 6px;
+  background-color: #E8E8E8;
+  margin: 0 auto;
+  margin-bottom: 25px;
+  border-radius: 4px;
+}
+
 input {
   color: #D5D5D5;
 }
@@ -45,10 +55,11 @@ input[type="submit" i] {
   z-index: 2;
   transition: bottom 0.5s ease;
   bottom: 0px;
+  flex-direction: column;
 }
 
 .info-card.show {
-  bottom: 230px;
+  bottom: 260px;
 }
 
 .sticker-box {
