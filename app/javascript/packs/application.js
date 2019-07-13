@@ -44,6 +44,7 @@ const form = document.querySelector("form");
 form.addEventListener("submit", (event) => {
   event.preventDefault();
 
+  // building the query string
   const params = {}
 
   const address = form.querySelector("input[name='address[]']").value;
@@ -53,10 +54,14 @@ form.addEventListener("submit", (event) => {
   if (address) { params.address = address }
   if (walking) { params.walking = walking }
   if (hours) { params.hours = hours }
+  if (userCoords) {
+    params.user_latitude = userCoords.latitude;
+    params.user_longitude = userCoords.longitude;
+  }
 
   const queryString = Object.keys(params).map(key => key + '=' + params[key]).join('&');
 
-  console.log(`${form.action}?${queryString}`);
+
 
   // This is making an AJAX (fetch) request
   railsFetch(`${form.action}?${queryString}`, { method: form.method })

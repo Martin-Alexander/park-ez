@@ -4,6 +4,11 @@ class PlacesController < ApplicationController
     walking_radius = params[:walking]
     hours = params[:hours]
 
+    user_coords = {
+      latitude: params[:user_latitude].to_f,
+      longitude: params[:user_longitude].to_f
+    }
+
     first_result = Geocoder.search(address)[0]
 
     if first_result
