@@ -62,12 +62,12 @@ form.addEventListener("submit", (event) => {
   const params = {}
 
   const address = form.querySelector("input[name='address']").value;
-  const walking = form.querySelector("input[name='walking']").value;
-  const hours = form.querySelector("input[name='hours']").value;
+  const distance = form.querySelector("input[name='distance']").value;
+  const duration = form.querySelector("input[name='duration']").value;
 
   if (address) { params.address = address }
-  if (walking) { params.walking = walking }
-  if (hours) { params.hours = hours }
+  if (distance) { params.distance = distance }
+  if (duration) { params.duration = duration }
   if (userCoords) {
     params.user_latitude = userCoords.latitude;
     params.user_longitude = userCoords.longitude;
@@ -81,13 +81,6 @@ form.addEventListener("submit", (event) => {
     .then((data) => {
       const bounds = new mapboxgl.LngLatBounds();
 
-      // Marker for the destination
-      createDestinationMarker()
-        .setLngLat([ data.destination.longitude, data.destination.latitude ])
-        .addTo(map);
-
-      bounds.extend([ data.destination.longitude, data.destination.latitude ]);
-
       // Markers for the parking spots
       data.places.forEach((place) => {
         bounds.extend([ place.longitude, place.latitude ])
@@ -98,6 +91,14 @@ form.addEventListener("submit", (event) => {
       });
 
       map.fitBounds(bounds, { padding: 70, maxZoom: 18, linear: true });
+
+
+      // Marker for the destination
+      createDestinationMarker()
+        .setLngLat([ data.destination.longitude, data.destination.latitude ])
+        .addTo(map);
+
+      bounds.extend([ data.destination.longitude, data.destination.latitude ]);
     });
 })
 
@@ -140,17 +141,17 @@ recognition.onresult = function(event) {
   const latestResult = event.results[event.results.length - 1][0].transcript.toLowerCase().trim();
 
   if (state === null) {
-    if (latestResult.match(/address/)) {
+    if (latestResult.match(/^address$/)) {
       voiceInputs.address.parentNode.querySelector(".fa-microphone").style["-webkit-text-fill-color"] = "#7ae090"
       voiceInputs.duration.parentNode.querySelector(".fa-microphone").style["-webkit-text-fill-color"] = "#c9c9c9"
       voiceInputs.distance.parentNode.querySelector(".fa-microphone").style["-webkit-text-fill-color"] = "#c9c9c9"
       state = "address"
-    } else if (latestResult.match(/duration/)) {
+    } else if (latestResult.match(/^duration$/)) {
       voiceInputs.address.parentNode.querySelector(".fa-microphone").style["-webkit-text-fill-color"] = "#c9c9c9"
       voiceInputs.duration.parentNode.querySelector(".fa-microphone").style["-webkit-text-fill-color"] = "#7ae090"
       voiceInputs.distance.parentNode.querySelector(".fa-microphone").style["-webkit-text-fill-color"] = "#c9c9c9"
       state = "duration"
-    } else if (latestResult.match(/distance/)) {
+    } else if (latestResult.match(/^distance$/)) {
       voiceInputs.address.parentNode.querySelector(".fa-microphone").style["-webkit-text-fill-color"] = "#c9c9c9"
       voiceInputs.duration.parentNode.querySelector(".fa-microphone").style["-webkit-text-fill-color"] = "#c9c9c9"
       voiceInputs.distance.parentNode.querySelector(".fa-microphone").style["-webkit-text-fill-color"] = "#7ae090"
