@@ -106,3 +106,12 @@ const createCurrentLocationMarker = () => {
 
   return new mapboxgl.Marker(markerDiv)
 }
+
+// =============================================================================
+
+const micBtn = document.querySelector("#mic-btn");
+const infoCard = document.querySelector(".info-card");
+
+micBtn.addEventListener("click", () => {
+  infoCard.classList.toggle("show");
+});
