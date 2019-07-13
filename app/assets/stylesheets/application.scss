@@ -14,14 +14,35 @@
 
 #top-detail {
   width: 68px;
-  height: 7.49px;
+  height: 6px;
   background-color: #E8E8E8;
   margin: 0 auto;
+  margin-bottom: 25px;
+  border-radius: 4px;
 }
 
 input {
   color: #D5D5D5;
 }
+
+input[type="submit" i] {
+  -webkit-appearance: push-button;
+  user-select: none;
+  white-space: pre;
+  align-items: flex-start;
+  text-align: center;
+  cursor: default;
+  color: buttontext;
+  background-color: buttonface;
+  box-sizing: border-box;
+  padding: 0px;
+  border-width: 0px;
+  border-style: outset;
+  border-color: buttonface;
+  border-image: initial;
+  background-color: initial;
+}
+
 .info-card {
   width: 97%;
   background-color: #FFFFFF;
@@ -29,7 +50,16 @@ input {
   display: flex;
   justify-content: center;
   margin: 0 auto;
-  display: none;
+  position: relative;
+  z-index: 2;
+  bottom: 0px;
+  flex-direction: column;
+  box-shadow: 0px -2px 6px rgba(0, 0, 0, 0.15);
+  border-radius: 10px 10px 0px 0px;
+}
+
+.info-card.show {
+  bottom: 260px;
 }
 
 .sticker-box {
@@ -47,6 +77,9 @@ form {
 }
 
 .form-box {
+  font-family: 'Roboto', sans-serif;
+  font-size: 13px;
+  line-height: 15px;
   background-color: #FAFAFA;
   border: 0px;
   border-bottom: 1px solid;
@@ -76,7 +109,7 @@ body {
 
 .btn {
 	background-image: linear-gradient(to right, #FF7E35,#FF3465);
-	border-radius: 40px;
+	border-radius: 45px;
   box-sizing: border-box;
 	color: linear-gradient(to right, #FF7E35,#FF3465);
 	display: block;
@@ -98,7 +131,6 @@ body {
 	display: flex;
 	justify-content: center;
 	height: 100%;
-	transition: background .5s ease;
 	width: 100%;
 }
 
