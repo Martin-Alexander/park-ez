@@ -128,16 +128,27 @@ recognition.lang = 'en-US';
 recognition.maxAlternatives = 1;
 recognition.start();
 
-recognition.onresult = function(event) {
-  console.log(event.results);
+const voiceInputs = {
+  address: document.querySelector("#address"),
+  duration: document.querySelector("#distance"),
+  distance: document.querySelector("#duration")
 }
 
-// "address"
+let state = null;
 
-// <address>
+recognition.onresult = function(event) {
+  const latestResult = event.results[event.results.length - 1][0].transcript.toLowerCase().trim();
 
-// "hours"
-
-// <hours>
-
-// "maximum distance"
+  if (state === null) {
+    if (latestResult.match(/address/)) {
+      state = "address"
+    } else if (latestResult.match(/duration/)) {
+      state = "duration"
+    } else if (latestResult.match(/distance/)) {
+      state = "distance"
+    }
+  } else {
+    voiceInputs[state].value = latestResult;
+    state = null;
+  }
+}
