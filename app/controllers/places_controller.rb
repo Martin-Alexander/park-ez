@@ -1,7 +1,7 @@
 class PlacesController < ApplicationController
   def index
     address = params[:address].blank? ? "5333 Ave Casgrain" : params[:address]
-    distance = params[:distance].blank? ? 0.2 : params[:distance].to_i * 0.083
+    distance = params[:distance].blank? ? 0.2 : params[:distance].to_i * 0.05
     duration = params[:duration].blank? ? 2 : params[:duration].to_i
 
     user_coords = {
