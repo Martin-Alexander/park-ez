@@ -22,7 +22,7 @@ let userCoords;
 
 navigator.geolocation.getCurrentPosition((position) => {
   userCoords = position.coords;
-  new mapboxgl.Marker()
+  createCurrentLocationMarker()
     .setLngLat({ lat: userCoords.latitude, lng: userCoords.longitude })
     .addTo(map);
   map.flyTo({ center: { lat: userCoords.latitude, lng: userCoords.longitude }, zoom: 14, duration: 0 });
@@ -70,7 +70,7 @@ form.addEventListener("submit", (event) => {
       const bounds = new mapboxgl.LngLatBounds();
 
       // Marker for the destination
-      new mapboxgl.Marker()
+      createDestinationMarker()
         .setLngLat([ data.destination.longitude, data.destination.latitude ])
         .addTo(map);
 
@@ -80,7 +80,7 @@ form.addEventListener("submit", (event) => {
       data.places.forEach((place) => {
         bounds.extend([ place.longitude, place.latitude ])
 
-        new mapboxgl.Marker()
+        createMarker()
           .setLngLat([ place.longitude, place.latitude ])
           .addTo(map);
       });
@@ -88,3 +88,21 @@ form.addEventListener("submit", (event) => {
       map.fitBounds(bounds, { padding: 70, maxZoom: 16, linear: true });
     });
 })
+
+const createMarker = () => {
+  return new mapboxgl.Marker()
+}
+
+const createDestinationMarker = () => {
+  const markerDiv = document.createElement('div');
+  markerDiv.className = 'destination-marker';
+
+  return new mapboxgl.Marker(markerDiv)
+}
+
+const createCurrentLocationMarker = () => {
+  const markerDiv = document.createElement('div');
+  markerDiv.className = 'current-location-marker';
+
+  return new mapboxgl.Marker(markerDiv)
+}
