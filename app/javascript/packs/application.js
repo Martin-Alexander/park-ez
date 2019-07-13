@@ -10,6 +10,12 @@ const infoCard = document.querySelector(".info-card");
 micBtn.addEventListener("click", () => {
   infoCard.classList.toggle("show");
 });
+/*
+const destination = document.getElementsByClassName('destination-marker');
+
+destination.addEventListener("click", () => {
+  console.log('help');
+}); */
 
 // =============================================================================
 
@@ -110,10 +116,14 @@ const createMarker = () => {
   return new mapboxgl.Marker()
 }
 
+const popup = document.querySelector('.hidden');
+
 const createDestinationMarker = () => {
   const markerDiv = document.createElement('div');
   markerDiv.className = 'destination-marker';
-
+  markerDiv.addEventListener("click", () => {
+    popup.classList.remove('hidden');
+  });
   return new mapboxgl.Marker(markerDiv)
 }
 
