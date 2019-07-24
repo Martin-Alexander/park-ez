@@ -157,7 +157,7 @@ recognition.onresult = function(event) {
   const latestResult = event.results[event.results.length - 1][0].transcript.toLowerCase().trim();
 
   if (state === null) {
-    if (latestResult.match(/^address$/)) {
+    if (latestResult.match(/^destination$/)) {
       voiceInputs.address.parentNode.querySelector(".fa-microphone").style["-webkit-text-fill-color"] = "#7ae090"
       voiceInputs.duration.parentNode.querySelector(".fa-microphone").style["-webkit-text-fill-color"] = "#c9c9c9"
       voiceInputs.distance.parentNode.querySelector(".fa-microphone").style["-webkit-text-fill-color"] = "#c9c9c9"
