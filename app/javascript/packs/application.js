@@ -39,14 +39,22 @@ let userCoords;
 
 navigator.geolocation.getCurrentPosition((position) => {
   userCoords = {
-    latitude: 45.5080532,
-    longitude: -73.5281045
+    latitude: 45.50884,
+    longitude: -73.58781
   }
+
+  // Add geolocate control to the map.
+map.addControl(new mapboxgl.GeolocateControl({
+  positionOptions: {
+  enableHighAccuracy: true
+  },
+  trackUserLocation: true
+  }));
 
   createCurrentLocationMarker()
     .setLngLat({ lat: userCoords.latitude, lng: userCoords.longitude })
     .addTo(map);
-  map.flyTo({ center: { lat: userCoords.latitude, lng: userCoords.longitude }, zoom: 14, duration: 0 });
+  map.flyTo({ center: { lat: userCoords.latitude, lng: userCoords.longitude }, zoom: 7, duration: 0 });
 }, (error) => console.error, { enableHighAccuracy: true });
 
 
